@@ -1,0 +1,289 @@
+10
+
+dir
+179455
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/25_algorithms
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2011-08-18T16:32:23.943690Z
+177871
+paolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+copy_n
+dir
+
+inplace_merge
+dir
+
+rotate
+dir
+
+is_permutation
+dir
+
+partition_copy
+dir
+
+fill_n
+dir
+
+stable_partition
+dir
+
+move_backward
+dir
+
+lexicographical_compare
+dir
+
+replace_copy
+dir
+
+mismatch
+dir
+
+search
+dir
+
+move
+dir
+
+find_end
+dir
+
+includes
+dir
+
+copy_backward
+dir
+
+binary_search
+dir
+
+copy
+dir
+
+replace
+dir
+
+any_of
+dir
+
+find_first_of
+dir
+
+min
+dir
+
+max
+dir
+
+fill
+dir
+
+replace_if
+dir
+
+min_element
+dir
+
+all_of
+dir
+
+remove
+dir
+
+max_element
+dir
+
+count_if
+dir
+
+is_sorted_until
+dir
+
+make_heap
+dir
+
+swap
+dir
+
+push_heap
+dir
+
+is_partitioned
+dir
+
+set_intersection
+dir
+
+search_n
+dir
+
+upper_bound
+dir
+
+none_of
+dir
+
+sort_heap
+dir
+
+count
+dir
+
+copy_if
+dir
+
+minmax
+dir
+
+random_shuffle
+dir
+
+partial_sort_copy
+dir
+
+iter_swap
+dir
+
+find_if
+dir
+
+merge
+dir
+
+unique_copy
+dir
+
+nth_element
+dir
+
+minmax_element
+dir
+
+partial_sort
+dir
+
+next_permutation
+dir
+
+reverse_copy
+dir
+
+equal
+dir
+
+generate_n
+dir
+
+is_heap
+dir
+
+partition
+dir
+
+swap_ranges
+dir
+
+reverse
+dir
+
+transform
+dir
+
+lower_bound
+dir
+
+find
+dir
+
+stable_sort
+dir
+
+partition_point
+dir
+
+equal_range
+dir
+
+is_heap_until
+dir
+
+replace_copy_if
+dir
+
+remove_copy
+dir
+
+sort
+dir
+
+rotate_copy
+dir
+
+generate
+dir
+
+pop_heap
+dir
+
+is_sorted
+dir
+
+shuffle
+dir
+
+set_symmetric_difference
+dir
+
+prev_permutation
+dir
+
+set_union
+dir
+
+remove_copy_if
+dir
+
+set_difference
+dir
+
+for_each
+dir
+
+unique
+dir
+
+adjacent_find
+dir
+
+remove_if
+dir
+
+headers
+dir
+
+heap
+dir
+
+find_if_not
+dir
+

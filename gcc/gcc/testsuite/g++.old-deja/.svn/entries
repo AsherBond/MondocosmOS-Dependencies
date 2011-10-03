@@ -1,0 +1,122 @@
+10
+
+dir
+179455
+svn://gcc.gnu.org/svn/gcc/trunk/gcc/testsuite/g++.old-deja
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2011-09-27T01:56:17.831596Z
+179226
+paolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+g++.warn
+dir
+
+g++.brendan
+dir
+
+g++.robertl
+dir
+
+g++.oliva
+dir
+
+g++.jason
+dir
+
+g++.rfg
+dir
+
+g++.ns
+dir
+
+g++.other
+dir
+
+g++.niklas
+dir
+
+g++.law
+dir
+
+g++.benjamin
+dir
+
+g++.pt
+dir
+
+g++.mike
+dir
+
+g++.gb
+dir
+
+g++.martin
+dir
+
+g++.abi
+dir
+
+g++.eh
+dir
+
+old-deja.exp
+file
+
+
+
+
+2011-10-03T12:57:52.884445Z
+bd5d0a8123c78b87516553c8786f9033
+2007-08-01T16:25:11.955122Z
+127127
+nickc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1236
+
+g++.ext
+dir
+
+g++.bugs
+dir
+
+g++.bob
+dir
+

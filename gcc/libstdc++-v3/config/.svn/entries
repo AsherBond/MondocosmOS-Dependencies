@@ -1,0 +1,46 @@
+10
+
+dir
+179455
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/config
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2011-09-27T00:02:54.938746Z
+179221
+bkoz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+locale
+dir
+
+allocator
+dir
+
+os
+dir
+
+cpu
+dir
+
+io
+dir
+
+abi
+dir
+

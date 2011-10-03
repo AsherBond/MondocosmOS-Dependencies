@@ -1,0 +1,67 @@
+10
+
+dir
+179455
+svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3/testsuite/23_containers/headers
+svn://gcc.gnu.org/svn/gcc
+
+
+
+2010-12-19T09:21:16.953673Z
+168046
+bkoz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138bc75d-0d04-0410-961f-82ee72b054a4
+
+forward_list
+dir
+
+unordered_set
+dir
+
+vector
+dir
+
+deque
+dir
+
+queue
+dir
+
+unordered_map
+dir
+
+stack
+dir
+
+tuple
+dir
+
+bitset
+dir
+
+list
+dir
+
+set
+dir
+
+map
+dir
+
+array
+dir
+
