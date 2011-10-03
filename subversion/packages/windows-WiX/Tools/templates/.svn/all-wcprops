@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/882257/subversion/trunk/packages/windows-WiX/Tools/templates
+END
+svn-doc.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/882257/subversion/trunk/packages/windows-WiX/Tools/templates/svn-doc.css
+END
+mk_htmlhelp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/Tools/templates/mk_htmlhelp.bat
+END

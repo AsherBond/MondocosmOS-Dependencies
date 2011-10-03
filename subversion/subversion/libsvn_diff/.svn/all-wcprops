@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1174156/subversion/trunk/subversion/libsvn_diff
+END
+deprecated.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/libsvn_diff/deprecated.c
+END
+diff_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1174156/subversion/trunk/subversion/libsvn_diff/diff_memory.c
+END
+parse-diff.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1174156/subversion/trunk/subversion/libsvn_diff/parse-diff.c
+END
+token.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1132811/subversion/trunk/subversion/libsvn_diff/token.c
+END
+lcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/libsvn_diff/lcs.c
+END
+diff_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1174156/subversion/trunk/subversion/libsvn_diff/diff_file.c
+END
+diff.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1132811/subversion/trunk/subversion/libsvn_diff/diff.c
+END
+diff3.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1139725/subversion/trunk/subversion/libsvn_diff/diff3.c
+END
+diff4.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1132811/subversion/trunk/subversion/libsvn_diff/diff4.c
+END
+diff.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/libsvn_diff/diff.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1132965/subversion/trunk/subversion/libsvn_diff/util.c
+END

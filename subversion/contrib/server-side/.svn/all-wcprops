@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1145572/subversion/trunk/contrib/server-side
+END
+add-needs-lock.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/872408/subversion/trunk/contrib/server-side/add-needs-lock.py
+END
+backup-recipe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/backup-recipe.sh
+END
+authz_svn_group.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/859928/subversion/trunk/contrib/server-side/authz_svn_group.py
+END
+svn-fast-backup
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/904301/subversion/trunk/contrib/server-side/svn-fast-backup
+END
+svn-tweak-author.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/866391/subversion/trunk/contrib/server-side/svn-tweak-author.py
+END
+svnmirror-test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/904301/subversion/trunk/contrib/server-side/svnmirror-test.sh
+END
+svnmirror.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/904301/subversion/trunk/contrib/server-side/svnmirror.sh
+END
+load_repo_with_mergesensitive_copy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/load_repo_with_mergesensitive_copy.sh
+END
+fsfsverify.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1145572/subversion/trunk/contrib/server-side/fsfsverify.py
+END

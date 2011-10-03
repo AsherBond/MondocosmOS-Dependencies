@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1158896/subversion/trunk/subversion/bindings/swig/ruby/test
+END
+util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1154908/subversion/trunk/subversion/bindings/swig/ruby/test/util.rb
+END
+test_client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1158896/subversion/trunk/subversion/bindings/swig/ruby/test/test_client.rb
+END
+my-assertions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/test/my-assertions.rb
+END
+run-test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1140302/subversion/trunk/subversion/bindings/swig/ruby/test/run-test.rb
+END
+test_repos.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1068594/subversion/trunk/subversion/bindings/swig/ruby/test/test_repos.rb
+END
+test_core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1140302/subversion/trunk/subversion/bindings/swig/ruby/test/test_core.rb
+END
+windows_util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/895514/subversion/trunk/subversion/bindings/swig/ruby/test/windows_util.rb
+END
+test_error.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/test/test_error.rb
+END
+test_delta.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1140302/subversion/trunk/subversion/bindings/swig/ruby/test/test_delta.rb
+END
+test_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/981729/subversion/trunk/subversion/bindings/swig/ruby/test/test_info.rb
+END
+test-unit-ext.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/test/test-unit-ext.rb
+END
+test_ra.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/test/test_ra.rb
+END
+test_fs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1140302/subversion/trunk/subversion/bindings/swig/ruby/test/test_fs.rb
+END
+test_wc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1095499/subversion/trunk/subversion/bindings/swig/ruby/test/test_wc.rb
+END
+greek_tree.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/test/greek_tree.rb
+END
+test_util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/test/test_util.rb
+END

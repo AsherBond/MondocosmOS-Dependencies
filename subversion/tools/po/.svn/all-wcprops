@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/asf/!svn/ver/1132657/subversion/trunk/tools/po
+END
+po-update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/915036/subversion/trunk/tools/po/po-update.sh
+END
+l10n-report.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1132657/subversion/trunk/tools/po/l10n-report.py
+END

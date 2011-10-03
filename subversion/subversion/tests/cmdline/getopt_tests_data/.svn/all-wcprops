@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1151610/subversion/trunk/subversion/tests/cmdline/getopt_tests_data
+END
+svn_help_stdout
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1026475/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn_help_stdout
+END
+svn_help_bogus-cmd_stdout
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn_help_bogus-cmd_stdout
+END
+svn_help--version_stdout
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/867104/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn_help--version_stdout
+END
+svn_help_log_switch_stderr
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn_help_log_switch_stderr
+END
+svn_stderr
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn_stderr
+END
+svn--version_stderr
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn--version_stderr
+END
+svn--version--quiet_stderr
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn--version--quiet_stderr
+END
+svn--help_stderr
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn--help_stderr
+END
+svn_help_stderr
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn_help_stderr
+END
+svn_help_bogus-cmd_stderr
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn_help_bogus-cmd_stderr
+END
+svn_help--version_stderr
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn_help--version_stderr
+END
+svn_help_log_switch_stdout
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1151610/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn_help_log_switch_stdout
+END
+svn_stdout
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn_stdout
+END
+svn--version_stdout
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1139364/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn--version_stdout
+END
+svn--version--quiet_stdout
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn--version--quiet_stdout
+END
+svn--help_stdout
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1026475/subversion/trunk/subversion/tests/cmdline/getopt_tests_data/svn--help_stdout
+END

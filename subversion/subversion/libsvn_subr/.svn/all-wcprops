@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1177563/subversion/trunk/subversion/libsvn_subr
+END
+subst.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1150441/subversion/trunk/subversion/libsvn_subr/subst.c
+END
+xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1134553/subversion/trunk/subversion/libsvn_subr/xml.c
+END
+sqlite.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1173240/subversion/trunk/subversion/libsvn_subr/sqlite.c
+END
+iter.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1167123/subversion/trunk/subversion/libsvn_subr/iter.c
+END
+config_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1173111/subversion/trunk/subversion/libsvn_subr/config_file.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/libsvn_subr/config.c
+END
+cache-inprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1138977/subversion/trunk/subversion/libsvn_subr/cache-inprocess.c
+END
+constructors.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1038788/subversion/trunk/subversion/libsvn_subr/constructors.c
+END
+svn_base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1145707/subversion/trunk/subversion/libsvn_subr/svn_base64.c
+END
+cmdline.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1160604/subversion/trunk/subversion/libsvn_subr/cmdline.c
+END
+svn_cache_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1160605/subversion/trunk/subversion/libsvn_subr/svn_cache_config.c
+END
+user.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/user.c
+END
+ssl_client_cert_pw_providers.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1139281/subversion/trunk/subversion/libsvn_subr/ssl_client_cert_pw_providers.c
+END
+quoprint.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/997203/subversion/trunk/subversion/libsvn_subr/quoprint.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1146149/subversion/trunk/subversion/libsvn_subr/hash.c
+END
+svn_temp_serializer.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1146149/subversion/trunk/subversion/libsvn_subr/svn_temp_serializer.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/910915/subversion/trunk/subversion/libsvn_subr/md5.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1133866/subversion/trunk/subversion/libsvn_subr/debug.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1167123/subversion/trunk/subversion/libsvn_subr/error.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/md5.h
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/time.c
+END
+utf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1160605/subversion/trunk/subversion/libsvn_subr/utf.c
+END
+win32_xlate.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/993253/subversion/trunk/subversion/libsvn_subr/win32_xlate.c
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1151053/subversion/trunk/subversion/libsvn_subr/auth.c
+END
+opt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1139364/subversion/trunk/subversion/libsvn_subr/opt.c
+END
+checksum.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1146981/subversion/trunk/subversion/libsvn_subr/checksum.c
+END
+win32_crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1069558/subversion/trunk/subversion/libsvn_subr/win32_crypto.c
+END
+cache-memcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/libsvn_subr/cache-memcache.c
+END
+dirent_uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1174060/subversion/trunk/subversion/libsvn_subr/dirent_uri.c
+END
+win32_xlate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/win32_xlate.h
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/opt.h
+END
+utf_validate.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/utf_validate.c
+END
+ssl_client_cert_providers.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1053996/subversion/trunk/subversion/libsvn_subr/ssl_client_cert_providers.c
+END
+pool.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/pool.c
+END
+cache-membuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1146105/subversion/trunk/subversion/libsvn_subr/cache-membuffer.c
+END
+dirent_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/935829/subversion/trunk/subversion/libsvn_subr/dirent_uri.h
+END
+atomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/934599/subversion/trunk/subversion/libsvn_subr/atomic.c
+END
+username_providers.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1053996/subversion/trunk/subversion/libsvn_subr/username_providers.c
+END
+date.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/libsvn_subr/date.c
+END
+eol.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/libsvn_subr/eol.c
+END
+token.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1080251/subversion/trunk/subversion/libsvn_subr/token.c
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/compat.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/944182/subversion/trunk/subversion/libsvn_subr/version.c
+END
+simple_providers.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1150783/subversion/trunk/subversion/libsvn_subr/simple_providers.c
+END
+config_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/config_auth.c
+END
+target.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1166748/subversion/trunk/subversion/libsvn_subr/target.c
+END
+config_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1069791/subversion/trunk/subversion/libsvn_subr/config_impl.h
+END
+gpg_agent.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1151073/subversion/trunk/subversion/libsvn_subr/gpg_agent.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/sha1.c
+END
+skel.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_subr/skel.c
+END
+deprecated.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1175938/subversion/trunk/subversion/libsvn_subr/deprecated.c
+END
+internal_statements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1084167/subversion/trunk/subversion/libsvn_subr/internal_statements.sql
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/sha1.h
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1177563/subversion/trunk/subversion/libsvn_subr/io.c
+END
+macos_keychain.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/macos_keychain.c
+END
+spillbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1174388/subversion/trunk/subversion/libsvn_subr/spillbuf.c
+END
+magic.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1160601/subversion/trunk/subversion/libsvn_subr/magic.c
+END
+prompt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1050158/subversion/trunk/subversion/libsvn_subr/prompt.c
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/libsvn_subr/lock.c
+END
+validate.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1159230/subversion/trunk/subversion/libsvn_subr/validate.c
+END
+stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1140543/subversion/trunk/subversion/libsvn_subr/stream.c
+END
+svn_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1166748/subversion/trunk/subversion/libsvn_subr/svn_string.c
+END
+nls.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1131007/subversion/trunk/subversion/libsvn_subr/nls.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1127705/subversion/trunk/subversion/libsvn_subr/cache.c
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1138900/subversion/trunk/subversion/libsvn_subr/cache.h
+END
+win32_crashrpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1053996/subversion/trunk/subversion/libsvn_subr/win32_crashrpt.c
+END
+win32_crashrpt_dll.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/win32_crashrpt_dll.h
+END
+sorts.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1167659/subversion/trunk/subversion/libsvn_subr/sorts.c
+END
+kitchensink.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1137933/subversion/trunk/subversion/libsvn_subr/kitchensink.c
+END
+mergeinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1176915/subversion/trunk/subversion/libsvn_subr/mergeinfo.c
+END
+win32_crashrpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/win32_crashrpt.h
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1003986/subversion/trunk/subversion/libsvn_subr/log.c
+END
+config_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1096157/subversion/trunk/subversion/libsvn_subr/config_win.c
+END
+ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_subr/ctype.c
+END
+genctype.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/882257/subversion/trunk/subversion/libsvn_subr/genctype.py
+END
+ssl_server_trust_providers.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1053996/subversion/trunk/subversion/libsvn_subr/ssl_server_trust_providers.c
+END
+dso.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1148992/subversion/trunk/subversion/libsvn_subr/dso.c
+END
+properties.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1101060/subversion/trunk/subversion/libsvn_subr/properties.c
+END
+path.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1060107/subversion/trunk/subversion/libsvn_subr/path.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1146149/subversion/trunk/subversion/libsvn_subr/adler32.c
+END

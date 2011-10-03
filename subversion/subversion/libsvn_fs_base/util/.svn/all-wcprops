@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1082675/subversion/trunk/subversion/libsvn_fs_base/util
+END
+fs_skels.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/904095/subversion/trunk/subversion/libsvn_fs_base/util/fs_skels.h
+END
+fs_skels.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1082675/subversion/trunk/subversion/libsvn_fs_base/util/fs_skels.c
+END

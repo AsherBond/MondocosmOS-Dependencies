@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1079591/subversion/trunk/packages/windows-WiX/Tools
+END
+cmn.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/Tools/cmn.pl
+END
+prepare_distro.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/882257/subversion/trunk/packages/windows-WiX/Tools/prepare_distro.bat
+END
+gpgsign.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/Tools/gpgsign.pl
+END
+finish_distro.bat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/882257/subversion/trunk/packages/windows-WiX/Tools/finish_distro.bat
+END
+svn_version.ini
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1079591/subversion/trunk/packages/windows-WiX/Tools/svn_version.ini
+END
+set_version.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/Tools/set_version.pl
+END
+svn_dynamics.ini
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/878439/subversion/trunk/packages/windows-WiX/Tools/svn_dynamics.ini
+END
+write_email.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/Tools/write_email.pl
+END
+mk_svndoc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/Tools/mk_svndoc.pl
+END
+update_build_files.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1079591/subversion/trunk/packages/windows-WiX/Tools/update_build_files.pl
+END

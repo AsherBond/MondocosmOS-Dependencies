@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 48
+Release
+Debug
+*.lo
+*.la
+.libs
+*.la-a
+*.o
+*~
+.*~
+
+END

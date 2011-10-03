@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 100
+org_tigris_subversion_javahl_*.h
+svnjavahl.*
+svnjavahl_*
+Debug
+Release
+.libs
+*.lo
+libsvnjavahl-1.la
+
+END

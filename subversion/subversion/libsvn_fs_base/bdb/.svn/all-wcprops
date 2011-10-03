@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1173129/subversion/trunk/subversion/libsvn_fs_base/bdb
+END
+reps-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/reps-table.c
+END
+bdb_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/bdb_compat.h
+END
+changes-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/changes-table.h
+END
+reps-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/reps-table.h
+END
+copies-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/copies-table.c
+END
+dbt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/dbt.c
+END
+copies-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/copies-table.h
+END
+bdb-err.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_fs_base/bdb/bdb-err.c
+END
+strings-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/strings-table.c
+END
+dbt.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/dbt.h
+END
+lock-tokens-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_fs_base/bdb/lock-tokens-table.c
+END
+uuids-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/uuids-table.c
+END
+node-origins-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/893309/subversion/trunk/subversion/libsvn_fs_base/bdb/node-origins-table.c
+END
+bdb-err.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/bdb-err.h
+END
+lock-tokens-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/lock-tokens-table.h
+END
+uuids-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/uuids-table.h
+END
+strings-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/strings-table.h
+END
+node-origins-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/893309/subversion/trunk/subversion/libsvn_fs_base/bdb/node-origins-table.h
+END
+miscellaneous-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/miscellaneous-table.c
+END
+env.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_fs_base/bdb/env.c
+END
+nodes-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/nodes-table.c
+END
+miscellaneous-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/miscellaneous-table.h
+END
+env.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1053996/subversion/trunk/subversion/libsvn_fs_base/bdb/env.h
+END
+txn-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_fs_base/bdb/txn-table.c
+END
+checksum-reps-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/889726/subversion/trunk/subversion/libsvn_fs_base/bdb/checksum-reps-table.c
+END
+locks-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1173129/subversion/trunk/subversion/libsvn_fs_base/bdb/locks-table.c
+END
+nodes-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/nodes-table.h
+END
+txn-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/txn-table.h
+END
+checksum-reps-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/checksum-reps-table.h
+END
+locks-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/957094/subversion/trunk/subversion/libsvn_fs_base/bdb/locks-table.h
+END
+rev-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/rev-table.c
+END
+rev-table.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/rev-table.h
+END
+bdb_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/bdb/bdb_compat.c
+END
+changes-table.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_fs_base/bdb/changes-table.c
+END

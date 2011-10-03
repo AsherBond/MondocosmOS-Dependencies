@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1157700/subversion/trunk/tools/dev/benchmarks/suite1
+END
+benchmark.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1154976/subversion/trunk/tools/dev/benchmarks/suite1/benchmark.py
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1157700/subversion/trunk/tools/dev/benchmarks/suite1/run
+END
+crontab.entry
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1094591/subversion/trunk/tools/dev/benchmarks/suite1/crontab.entry
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1138172/subversion/trunk/tools/dev/benchmarks/suite1/run.bat
+END
+cronjob
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1102265/subversion/trunk/tools/dev/benchmarks/suite1/cronjob
+END

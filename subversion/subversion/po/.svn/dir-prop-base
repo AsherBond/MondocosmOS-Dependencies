@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 12
+*.mo
+*.pot
+
+
+K 19
+tsvn:logwidthmarker
+V 2
+80
+END

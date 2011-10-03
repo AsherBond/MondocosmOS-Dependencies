@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1178282/subversion/trunk/subversion/libsvn_fs_fs
+END
+temp_serializer.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1146149/subversion/trunk/subversion/libsvn_fs_fs/temp_serializer.c
+END
+key-gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1174265/subversion/trunk/subversion/libsvn_fs_fs/key-gen.c
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1173639/subversion/trunk/subversion/libsvn_fs_fs/tree.c
+END
+fs_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1178282/subversion/trunk/subversion/libsvn_fs_fs/fs_fs.c
+END
+dag.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1124296/subversion/trunk/subversion/libsvn_fs_fs/dag.h
+END
+id.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1072302/subversion/trunk/subversion/libsvn_fs_fs/id.h
+END
+temp_serializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1146149/subversion/trunk/subversion/libsvn_fs_fs/temp_serializer.h
+END
+key-gen.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_fs/key-gen.h
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1173639/subversion/trunk/subversion/libsvn_fs_fs/tree.h
+END
+fs_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1178265/subversion/trunk/subversion/libsvn_fs_fs/fs_fs.h
+END
+fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1177693/subversion/trunk/subversion/libsvn_fs_fs/fs.c
+END
+fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1144550/subversion/trunk/subversion/libsvn_fs_fs/fs.h
+END
+structure
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1144494/subversion/trunk/subversion/libsvn_fs_fs/structure
+END
+rep-cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1148831/subversion/trunk/subversion/libsvn_fs_fs/rep-cache.c
+END
+rep-cache-db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1146226/subversion/trunk/subversion/libsvn_fs_fs/rep-cache-db.sql
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1149343/subversion/trunk/subversion/libsvn_fs_fs/lock.c
+END
+dag.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1124255/subversion/trunk/subversion/libsvn_fs_fs/dag.c
+END
+rep-cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1148831/subversion/trunk/subversion/libsvn_fs_fs/rep-cache.h
+END
+id.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1144424/subversion/trunk/subversion/libsvn_fs_fs/id.c
+END
+caching.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1147596/subversion/trunk/subversion/libsvn_fs_fs/caching.c
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/957094/subversion/trunk/subversion/libsvn_fs_fs/lock.h
+END

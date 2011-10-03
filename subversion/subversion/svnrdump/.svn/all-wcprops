@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1174352/subversion/trunk/subversion/svnrdump
+END
+svnrdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1153968/subversion/trunk/subversion/svnrdump/svnrdump.c
+END
+svnrdump.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1128340/subversion/trunk/subversion/svnrdump/svnrdump.h
+END
+load_editor.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/svnrdump/load_editor.c
+END
+dump_editor.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1174352/subversion/trunk/subversion/svnrdump/dump_editor.c
+END
+svnrdump.1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/986754/subversion/trunk/subversion/svnrdump/svnrdump.1
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1092744/subversion/trunk/subversion/svnrdump/util.c
+END

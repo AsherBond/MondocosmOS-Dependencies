@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/1165631/subversion/trunk/tools/examples
+END
+svnput.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/svnput.c
+END
+dumpprops.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/examples/dumpprops.py
+END
+svnserve-sgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/examples/svnserve-sgid.c
+END
+svnlog2html.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1086097/subversion/trunk/tools/examples/svnlog2html.rb
+END
+svnlook.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/svnlook.py
+END
+check-modified.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/examples/check-modified.py
+END
+svnshell.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/svnshell.py
+END
+geturl.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/examples/geturl.py
+END
+getlocks_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/getlocks_test.c
+END
+svnlook.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/svnlook.rb
+END
+revplist.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/revplist.py
+END
+putfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/examples/putfile.py
+END
+headrev.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/headrev.c
+END
+get-location-segments.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1165631/subversion/trunk/tools/examples/get-location-segments.py
+END
+svnshell.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/svnshell.rb
+END
+minimal_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/minimal_client.c
+END
+getfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/examples/getfile.py
+END
+blame.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/examples/blame.py
+END
+SvnCLBrowse
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/SvnCLBrowse
+END
+testwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/examples/testwrite.c
+END

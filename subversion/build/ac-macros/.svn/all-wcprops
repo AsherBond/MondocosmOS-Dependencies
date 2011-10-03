@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1174806/subversion/trunk/build/ac-macros
+END
+zlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1174806/subversion/trunk/build/ac-macros/zlib.m4
+END
+sqlite.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1141695/subversion/trunk/build/ac-macros/sqlite.m4
+END
+ctypesgen.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/882257/subversion/trunk/build/ac-macros/ctypesgen.m4
+END
+sasl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/882257/subversion/trunk/build/ac-macros/sasl.m4
+END
+kwallet.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1029802/subversion/trunk/build/ac-macros/kwallet.m4
+END
+apr_memcache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1147540/subversion/trunk/build/ac-macros/apr_memcache.m4
+END
+swig.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1138490/subversion/trunk/build/ac-macros/swig.m4
+END
+aprutil.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1147540/subversion/trunk/build/ac-macros/aprutil.m4
+END
+java.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1072425/subversion/trunk/build/ac-macros/java.m4
+END
+apache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1149454/subversion/trunk/build/ac-macros/apache.m4
+END
+find_apr.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/882257/subversion/trunk/build/ac-macros/find_apr.m4
+END
+apr.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1147540/subversion/trunk/build/ac-macros/apr.m4
+END
+find_apu.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/882257/subversion/trunk/build/ac-macros/find_apu.m4
+END
+berkeley-db.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1149671/subversion/trunk/build/ac-macros/berkeley-db.m4
+END
+gssapi.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1029802/subversion/trunk/build/ac-macros/gssapi.m4
+END
+svn-macros.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/882257/subversion/trunk/build/ac-macros/svn-macros.m4
+END
+serf.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1147540/subversion/trunk/build/ac-macros/serf.m4
+END
+neon.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1153599/subversion/trunk/build/ac-macros/neon.m4
+END

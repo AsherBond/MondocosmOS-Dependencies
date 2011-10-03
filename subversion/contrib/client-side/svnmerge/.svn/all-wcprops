@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1054503/subversion/trunk/contrib/client-side/svnmerge
+END
+svnmerge.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/863939/subversion/trunk/contrib/client-side/svnmerge/svnmerge.sh
+END
+svnmerge-migrate-history-remotely.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/875432/subversion/trunk/contrib/client-side/svnmerge/svnmerge-migrate-history-remotely.py
+END
+svnmerge-migrate-history.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/878081/subversion/trunk/contrib/client-side/svnmerge/svnmerge-migrate-history.py
+END
+svnmerge-migrate-test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/svnmerge/svnmerge-migrate-test.sh
+END
+svnmerge.README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/876021/subversion/trunk/contrib/client-side/svnmerge/svnmerge.README
+END
+svnmerge_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/904301/subversion/trunk/contrib/client-side/svnmerge/svnmerge_test.py
+END
+svnmerge.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1054503/subversion/trunk/contrib/client-side/svnmerge/svnmerge.py
+END

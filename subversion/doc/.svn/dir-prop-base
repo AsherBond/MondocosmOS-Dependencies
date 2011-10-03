@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 75
+doxygen
+javadoc
+*.ps
+*.pdf
+svn-design.txt
+*.dvi
+*.html
+*.info*
+*.o
+*~
+.*~
+
+
+END

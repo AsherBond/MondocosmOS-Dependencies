@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 139
+*.pyc
+libtool.m4
+ltoptions.m4
+ltsugar.m4
+ltversion.m4
+lt~obsolete.m4
+ltmain.sh
+pkg.m4
+config.guess
+config.sub
+transform_libtool_scripts.sh
+
+END

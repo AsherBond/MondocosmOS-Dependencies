@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/mod_dav_svn
+END
+merge.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1067180/subversion/trunk/subversion/mod_dav_svn/merge.c
+END
+mod_dav_svn.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1159686/subversion/trunk/subversion/mod_dav_svn/mod_dav_svn.c
+END
+deadprops.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/mod_dav_svn/deadprops.c
+END
+liveprops.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1159228/subversion/trunk/subversion/mod_dav_svn/liveprops.c
+END
+dav_svn.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1161202/subversion/trunk/subversion/mod_dav_svn/dav_svn.h
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/mod_dav_svn/version.c
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1131128/subversion/trunk/subversion/mod_dav_svn/lock.c
+END
+repos.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1150327/subversion/trunk/subversion/mod_dav_svn/repos.c
+END
+mirror.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1088602/subversion/trunk/subversion/mod_dav_svn/mirror.c
+END
+authz.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/mod_dav_svn/authz.c
+END
+activity.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1067180/subversion/trunk/subversion/mod_dav_svn/activity.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1161202/subversion/trunk/subversion/mod_dav_svn/util.c
+END

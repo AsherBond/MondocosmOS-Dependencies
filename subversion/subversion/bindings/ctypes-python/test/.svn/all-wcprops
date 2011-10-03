@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1157906/subversion/trunk/subversion/bindings/ctypes-python/test
+END
+wc.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1155325/subversion/trunk/subversion/bindings/ctypes-python/test/wc.py
+END
+svntypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1157788/subversion/trunk/subversion/bindings/ctypes-python/test/svntypes.py
+END
+run_all.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/test/run_all.py
+END
+setup_path.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1157906/subversion/trunk/subversion/bindings/ctypes-python/test/setup_path.py
+END
+test.dumpfile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/873429/subversion/trunk/subversion/bindings/ctypes-python/test/test.dumpfile
+END
+localrepos.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155044/subversion/trunk/subversion/bindings/ctypes-python/test/localrepos.py
+END
+remoterepos.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1156826/subversion/trunk/subversion/bindings/ctypes-python/test/remoterepos.py
+END

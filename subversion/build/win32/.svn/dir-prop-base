@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 136
+build_locale.bat
+build_neon.bat
+build_zlib.bat
+make_dist.conf
+make_dist.log
+*.dsp
+msvc-dsp
+*.vcproj
+*.vcxproj
+vcnet-vcproj
+*.user
+*.log
+
+END

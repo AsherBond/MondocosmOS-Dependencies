@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 134
+tree-conflict-data-test
+.libs
+*.lo
+db-test
+fake-wc
+pristine-store-test
+svn-test-work
+entries-compat-test
+op-depth-test
+wc-lock-tester
+
+END

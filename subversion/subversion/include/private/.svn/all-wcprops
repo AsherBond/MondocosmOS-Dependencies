@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1174693/subversion/trunk/subversion/include/private
+END
+svn_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/include/private/svn_cache.h
+END
+svn_subr_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1174388/subversion/trunk/subversion/include/private/svn_subr_private.h
+END
+svn_mergeinfo_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1098117/subversion/trunk/subversion/include/private/svn_mergeinfo_private.h
+END
+svn_fs_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1136076/subversion/trunk/subversion/include/private/svn_fs_util.h
+END
+svn_eol_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1129955/subversion/trunk/subversion/include/private/svn_eol_private.h
+END
+svn_atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/934599/subversion/trunk/subversion/include/private/svn_atomic.h
+END
+svn_doxygen.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/896893/subversion/trunk/subversion/include/private/svn_doxygen.h
+END
+svn_token.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1080251/subversion/trunk/subversion/include/private/svn_token.h
+END
+svn_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/include/private/svn_log.h
+END
+svn_repos_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1091717/subversion/trunk/subversion/include/private/svn_repos_private.h
+END
+svn_dav_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/include/private/svn_dav_protocol.h
+END
+svn_adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1146149/subversion/trunk/subversion/include/private/svn_adler32.h
+END
+svn_temp_serializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1146149/subversion/trunk/subversion/include/private/svn_temp_serializer.h
+END
+svn_skel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1082786/subversion/trunk/subversion/include/private/svn_skel.h
+END
+svn_string_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1149240/subversion/trunk/subversion/include/private/svn_string_private.h
+END
+svn_sqlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1173240/subversion/trunk/subversion/include/private/svn_sqlite.h
+END
+svn_io_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1141953/subversion/trunk/subversion/include/private/svn_io_private.h
+END
+svn_wc_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1174693/subversion/trunk/subversion/include/private/svn_wc_private.h
+END
+svn_cmdline_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/922239/subversion/trunk/subversion/include/private/svn_cmdline_private.h
+END
+svn_client_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1156929/subversion/trunk/subversion/include/private/svn_client_private.h
+END
+svn_dep_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1149240/subversion/trunk/subversion/include/private/svn_dep_compat.h
+END
+svn_magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1131390/subversion/trunk/subversion/include/private/svn_magic.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/862677/subversion/trunk/subversion/include/private/README
+END
+svn_error_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1052451/subversion/trunk/subversion/include/private/svn_error_private.h
+END
+ra_svn_sasl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/include/private/ra_svn_sasl.h
+END
+svn_fspath.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1135501/subversion/trunk/subversion/include/private/svn_fspath.h
+END
+svn_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1133866/subversion/trunk/subversion/include/private/svn_debug.h
+END
+svn_utf_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/include/private/svn_utf_private.h
+END
+svn_auth_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1150783/subversion/trunk/subversion/include/private/svn_auth_private.h
+END
+svn_ra_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1091717/subversion/trunk/subversion/include/private/svn_ra_private.h
+END
+svn_opt_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1140736/subversion/trunk/subversion/include/private/svn_opt_private.h
+END
+svn_fs_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1129660/subversion/trunk/subversion/include/private/svn_fs_private.h
+END

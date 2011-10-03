@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/svnstsw/conf
+END
+find_apr.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/877787/subversion/trunk/contrib/server-side/svnstsw/conf/find_apr.m4
+END
+stsw_prog_doxygen.m4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/svnstsw/conf/stsw_prog_doxygen.m4
+END
+stsw_lib_apr.m4
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/svnstsw/conf/stsw_lib_apr.m4
+END
+stsw_func_snprintf_broken.m4
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/877787/subversion/trunk/contrib/server-side/svnstsw/conf/stsw_func_snprintf_broken.m4
+END

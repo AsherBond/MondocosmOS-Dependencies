@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1145712/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback
+END
+StatusCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1100273/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/StatusCallback.java
+END
+ConflictResolverCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1095734/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/ConflictResolverCallback.java
+END
+LogMessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1054680/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/LogMessageCallback.java
+END
+DiffSummaryCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1095734/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/DiffSummaryCallback.java
+END
+CommitCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/988117/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/CommitCallback.java
+END
+InfoCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071214/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/InfoCallback.java
+END
+CommitMessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1145712/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/CommitMessageCallback.java
+END
+PatchCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/981575/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/PatchCallback.java
+END
+UserPasswordCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/984567/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/UserPasswordCallback.java
+END
+ProgressCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1095734/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/ProgressCallback.java
+END
+ClientNotifyCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1095734/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/ClientNotifyCallback.java
+END
+ListCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1054680/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/ListCallback.java
+END
+ProplistCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/981570/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/ProplistCallback.java
+END
+BlameCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1145705/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/BlameCallback.java
+END
+ReposNotifyCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1095734/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/ReposNotifyCallback.java
+END
+ChangelistCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/981570/subversion/trunk/subversion/bindings/javahl/src/org/apache/subversion/javahl/callback/ChangelistCallback.java
+END

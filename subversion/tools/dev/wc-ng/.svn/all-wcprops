@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/dev/wc-ng
+END
+graph-data.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/dev/wc-ng/graph-data.py
+END
+bump-to-19.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/dev/wc-ng/bump-to-19.py
+END
+count-progress.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/dev/wc-ng/count-progress.py
+END
+gather-data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/891686/subversion/trunk/tools/dev/wc-ng/gather-data.sh
+END
+populate-pristine.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/dev/wc-ng/populate-pristine.py
+END

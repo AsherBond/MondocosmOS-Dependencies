@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1175903/subversion/trunk/subversion/libsvn_repos
+END
+load-fs-vtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1144120/subversion/trunk/subversion/libsvn_repos/load-fs-vtable.c
+END
+deprecated.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1140543/subversion/trunk/subversion/libsvn_repos/deprecated.c
+END
+reporter.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1173759/subversion/trunk/subversion/libsvn_repos/reporter.c
+END
+node_tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1067295/subversion/trunk/subversion/libsvn_repos/node_tree.c
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1174041/subversion/trunk/subversion/libsvn_repos/dump.c
+END
+notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/950068/subversion/trunk/subversion/libsvn_repos/notify.c
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_repos/load.c
+END
+fs-wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_repos/fs-wrap.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1175903/subversion/trunk/subversion/libsvn_repos/log.c
+END
+hooks.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1149675/subversion/trunk/subversion/libsvn_repos/hooks.c
+END
+repos.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1153414/subversion/trunk/subversion/libsvn_repos/repos.c
+END
+commit.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1174041/subversion/trunk/subversion/libsvn_repos/commit.c
+END
+delta.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1067295/subversion/trunk/subversion/libsvn_repos/delta.c
+END
+rev_hunt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_repos/rev_hunt.c
+END
+authz.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1166111/subversion/trunk/subversion/libsvn_repos/authz.c
+END
+replay.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1164665/subversion/trunk/subversion/libsvn_repos/replay.c
+END
+repos.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1125733/subversion/trunk/subversion/libsvn_repos/repos.h
+END

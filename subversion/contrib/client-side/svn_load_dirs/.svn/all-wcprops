@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1127885/subversion/trunk/contrib/client-side/svn_load_dirs
+END
+svn_load_dirs.README
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/svn_load_dirs/svn_load_dirs.README
+END
+LICENSE_AFL3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/879954/subversion/trunk/contrib/client-side/svn_load_dirs/LICENSE_AFL3.txt
+END
+svn_load_dirs.pl.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1127885/subversion/trunk/contrib/client-side/svn_load_dirs/svn_load_dirs.pl.in
+END
+svn_load_dirs_property_table.example
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/863939/subversion/trunk/contrib/client-side/svn_load_dirs/svn_load_dirs_property_table.example
+END

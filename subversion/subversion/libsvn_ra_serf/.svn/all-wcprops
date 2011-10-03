@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1174041/subversion/trunk/subversion/libsvn_ra_serf
+END
+merge.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1154982/subversion/trunk/subversion/libsvn_ra_serf/merge.c
+END
+blncache.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/libsvn_ra_serf/blncache.c
+END
+serf.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1154982/subversion/trunk/subversion/libsvn_ra_serf/serf.c
+END
+xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1133032/subversion/trunk/subversion/libsvn_ra_serf/xml.c
+END
+blncache.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1080245/subversion/trunk/subversion/libsvn_ra_serf/blncache.h
+END
+mergeinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra_serf/mergeinfo.c
+END
+locks.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1158429/subversion/trunk/subversion/libsvn_ra_serf/locks.c
+END
+getlocks.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1133067/subversion/trunk/subversion/libsvn_ra_serf/getlocks.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/875020/subversion/trunk/subversion/libsvn_ra_serf/README
+END
+getdate.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1133067/subversion/trunk/subversion/libsvn_ra_serf/getdate.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1155160/subversion/trunk/subversion/libsvn_ra_serf/util.c
+END
+getlocationsegments.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1149151/subversion/trunk/subversion/libsvn_ra_serf/getlocationsegments.c
+END
+blame.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1158893/subversion/trunk/subversion/libsvn_ra_serf/blame.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1149160/subversion/trunk/subversion/libsvn_ra_serf/log.c
+END
+get_deleted_rev.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1053996/subversion/trunk/subversion/libsvn_ra_serf/get_deleted_rev.c
+END
+update.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1163953/subversion/trunk/subversion/libsvn_ra_serf/update.c
+END
+property.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_ra_serf/property.c
+END
+ra_serf.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra_serf/ra_serf.h
+END
+commit.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1174041/subversion/trunk/subversion/libsvn_ra_serf/commit.c
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra_serf/options.c
+END
+getlocations.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1133067/subversion/trunk/subversion/libsvn_ra_serf/getlocations.c
+END
+replay.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1150853/subversion/trunk/subversion/libsvn_ra_serf/replay.c
+END

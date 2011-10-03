@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1174163/subversion/trunk/subversion/libsvn_ra_neon
+END
+merge.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1100676/subversion/trunk/subversion/libsvn_ra_neon/merge.c
+END
+props.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1174163/subversion/trunk/subversion/libsvn_ra_neon/props.c
+END
+get_locks.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1064436/subversion/trunk/subversion/libsvn_ra_neon/get_locks.c
+END
+mergeinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra_neon/mergeinfo.c
+END
+get_location_segments.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1104620/subversion/trunk/subversion/libsvn_ra_neon/get_location_segments.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/865516/subversion/trunk/subversion/libsvn_ra_neon/README
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1152726/subversion/trunk/subversion/libsvn_ra_neon/util.c
+END
+file_revs.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1104620/subversion/trunk/subversion/libsvn_ra_neon/file_revs.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1149137/subversion/trunk/subversion/libsvn_ra_neon/log.c
+END
+get_deleted_rev.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1104620/subversion/trunk/subversion/libsvn_ra_neon/get_deleted_rev.c
+END
+session.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1170120/subversion/trunk/subversion/libsvn_ra_neon/session.c
+END
+ra_neon.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1173809/subversion/trunk/subversion/libsvn_ra_neon/ra_neon.h
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_ra_neon/lock.c
+END
+commit.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1174041/subversion/trunk/subversion/libsvn_ra_neon/commit.c
+END
+fetch.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1154718/subversion/trunk/subversion/libsvn_ra_neon/fetch.c
+END
+get_locations.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1104620/subversion/trunk/subversion/libsvn_ra_neon/get_locations.c
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra_neon/options.c
+END
+get_dated_rev.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1053996/subversion/trunk/subversion/libsvn_ra_neon/get_dated_rev.c
+END
+replay.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1130560/subversion/trunk/subversion/libsvn_ra_neon/replay.c
+END

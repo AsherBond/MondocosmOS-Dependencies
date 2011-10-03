@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1174068/subversion/trunk/subversion/libsvn_delta
+END
+compose_delta.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1066520/subversion/trunk/subversion/libsvn_delta/compose_delta.c
+END
+delta.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_delta/delta.h
+END
+depth_filter_editor.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_delta/depth_filter_editor.c
+END
+svndiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1145707/subversion/trunk/subversion/libsvn_delta/svndiff.c
+END
+debug_editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_delta/debug_editor.h
+END
+xdelta.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1055984/subversion/trunk/subversion/libsvn_delta/xdelta.c
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1174068/subversion/trunk/subversion/libsvn_delta/compat.c
+END
+cancel.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_delta/cancel.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_delta/version.c
+END
+editor.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1172672/subversion/trunk/subversion/libsvn_delta/editor.c
+END
+path_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1062974/subversion/trunk/subversion/libsvn_delta/path_driver.c
+END
+default_editor.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_delta/default_editor.c
+END
+debug_editor.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_delta/debug_editor.c
+END
+text_delta.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1054249/subversion/trunk/subversion/libsvn_delta/text_delta.c
+END

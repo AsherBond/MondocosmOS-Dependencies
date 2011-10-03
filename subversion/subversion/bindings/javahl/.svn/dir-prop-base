@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 51
+javahl*.*
+classes
+include
+svn-javahl.jar
+test-work
+
+END

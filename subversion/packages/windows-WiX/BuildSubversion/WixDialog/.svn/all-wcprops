@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/904301/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog
+END
+WixUI_uk-ua.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_uk-ua.wxl
+END
+WixUI_Subversion.wixlib
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/878256/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_Subversion.wixlib
+END
+WixUI_en-us-subversion.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_en-us-subversion.wxl
+END
+AdminExitDialog.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/AdminExitDialog.wxs
+END
+WixUI_pl-pl.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_pl-pl.wxl
+END
+WixUI_it-it.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_it-it.wxl
+END
+ApacheSelectDlg.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/ApacheSelectDlg.wxs
+END
+PostDlg.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/PostDlg.wxs
+END
+WixUI_ja-jp.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_ja-jp.wxl
+END
+InfoDlg.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/InfoDlg.wxs
+END
+WixUI_Subversion.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_Subversion.wxs
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/882257/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/build.bat
+END
+WixUI_ru-ru.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_ru-ru.wxl
+END
+WixUI_fr-fr.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_fr-fr.wxl
+END
+WixUI_es-es.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_es-es.wxl
+END
+WelcomeDlgSv.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WelcomeDlgSv.wxs
+END
+ReadyDlg.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/ReadyDlg.wxs
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/878040/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/readme.txt
+END
+WixUI_de-de.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_de-de.wxl
+END
+WixUI_cs-cz.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_cs-cz.wxl
+END
+WixUI_nl-nl.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/878440/subversion/trunk/packages/windows-WiX/BuildSubversion/WixDialog/WixUI_nl-nl.wxl
+END

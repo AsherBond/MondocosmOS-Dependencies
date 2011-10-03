@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/981339/subversion/trunk/subversion/bindings/swig/python/tests/trac/versioncontrol/tests
+END
+svnrepos.dump
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/878548/subversion/trunk/subversion/bindings/swig/python/tests/trac/versioncontrol/tests/svnrepos.dump
+END
+svn_fs.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/981339/subversion/trunk/subversion/bindings/swig/python/tests/trac/versioncontrol/tests/svn_fs.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/882257/subversion/trunk/subversion/bindings/swig/python/tests/trac/versioncontrol/tests/__init__.py
+END

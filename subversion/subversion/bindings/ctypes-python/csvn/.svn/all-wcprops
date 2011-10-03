@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1156826/subversion/trunk/subversion/bindings/ctypes-python/csvn
+END
+repos.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1156826/subversion/trunk/subversion/bindings/ctypes-python/csvn/repos.py
+END
+txn.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/csvn/txn.py
+END
+wc.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1155044/subversion/trunk/subversion/bindings/ctypes-python/csvn/wc.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/875322/subversion/trunk/subversion/bindings/ctypes-python/csvn/__init__.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/csvn/auth.py
+END
+types.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/csvn/types.py
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/svnserve
+END
+winservice.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/svnserve/winservice.c
+END
+log-escape.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/995212/subversion/trunk/subversion/svnserve/log-escape.c
+END
+svnserve.8
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/886664/subversion/trunk/subversion/svnserve/svnserve.8
+END
+svnserve.conf.5
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/886664/subversion/trunk/subversion/svnserve/svnserve.conf.5
+END
+winservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/svnserve/winservice.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/svnserve/main.c
+END
+serve.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/svnserve/serve.c
+END
+cyrus_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1138977/subversion/trunk/subversion/svnserve/cyrus_auth.c
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/svnserve/server.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1162054/subversion/trunk/subversion/bindings/swig/perl/native
+END
+Core.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1146834/subversion/trunk/subversion/bindings/swig/perl/native/Core.pm
+END
+Fs.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/Fs.pm
+END
+Repos.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/Repos.pm
+END
+Delta.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/Delta.pm
+END
+Wc.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/885544/subversion/trunk/subversion/bindings/swig/perl/native/Wc.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/Base.pm
+END
+Client.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/Client.pm
+END
+Makefile.PL.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1162054/subversion/trunk/subversion/bindings/swig/perl/native/Makefile.PL.in
+END
+Ra.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/Ra.pm
+END

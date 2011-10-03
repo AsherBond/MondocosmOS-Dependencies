@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1145712/subversion/trunk/tools/hook-scripts
+END
+commit-email.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1086097/subversion/trunk/tools/hook-scripts/commit-email.rb
+END
+log-police.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/hook-scripts/log-police.py
+END
+svn2feed.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/hook-scripts/svn2feed.py
+END
+commit-access-control.pl.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/880911/subversion/trunk/tools/hook-scripts/commit-access-control.pl.in
+END
+svnperms.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1145712/subversion/trunk/tools/hook-scripts/svnperms.py
+END
+verify-po.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/hook-scripts/verify-po.py
+END
+svnperms.conf.example
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1028289/subversion/trunk/tools/hook-scripts/svnperms.conf.example
+END
+commit-access-control.cfg.example
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/845362/subversion/trunk/tools/hook-scripts/commit-access-control.cfg.example
+END
+validate-extensions.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/hook-scripts/validate-extensions.py
+END

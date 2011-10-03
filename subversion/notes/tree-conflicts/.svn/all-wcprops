@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/965912/subversion/trunk/notes/tree-conflicts
+END
+all-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/882257/subversion/trunk/notes/tree-conflicts/all-tests.sh
+END
+requirements.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/874349/subversion/trunk/notes/tree-conflicts/requirements.txt
+END
+resolution.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/878040/subversion/trunk/notes/tree-conflicts/resolution.txt
+END
+use-cases.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/896068/subversion/trunk/notes/tree-conflicts/use-cases.txt
+END
+all-add-vs-add-tree-conflicts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/965912/subversion/trunk/notes/tree-conflicts/all-add-vs-add-tree-conflicts.txt
+END
+scratch-pad.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/870251/subversion/trunk/notes/tree-conflicts/scratch-pad.txt
+END
+use-cases-resolution.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/878040/subversion/trunk/notes/tree-conflicts/use-cases-resolution.txt
+END
+design-overview.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/874349/subversion/trunk/notes/tree-conflicts/design-overview.txt
+END
+detection.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/873553/subversion/trunk/notes/tree-conflicts/detection.txt
+END

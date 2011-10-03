@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/1176896/subversion/trunk/tools/dev
+END
+random-commits.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/random-commits.py
+END
+svn-dev.el
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1049557/subversion/trunk/tools/dev/svn-dev.el
+END
+check-license.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1066520/subversion/trunk/tools/dev/check-license.py
+END
+histogram.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1173238/subversion/trunk/tools/dev/histogram.py
+END
+normalize-dump.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/normalize-dump.py
+END
+lock-check.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/lock-check.py
+END
+warn-ignored-err.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/warn-ignored-err.sh
+END
+min-includes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/min-includes.sh
+END
+po-merge.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/904301/subversion/trunk/tools/dev/po-merge.py
+END
+log_revnum_change_asf.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/dev/log_revnum_change_asf.py
+END
+datecheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/datecheck.py
+END
+svn-merge-revs.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/904301/subversion/trunk/tools/dev/svn-merge-revs.py
+END
+svn-dev.vim
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/909552/subversion/trunk/tools/dev/svn-dev.vim
+END
+svn-entries.el
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/909552/subversion/trunk/tools/dev/svn-entries.el
+END
+mlpatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/mlpatch.py
+END
+contribulyze.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1126655/subversion/trunk/tools/dev/contribulyze.py
+END
+which-error.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1144315/subversion/trunk/tools/dev/which-error.py
+END
+analyze-svnlogs.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/922367/subversion/trunk/tools/dev/analyze-svnlogs.py
+END
+trails.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/trails.py
+END
+wc-format.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/dev/wc-format.py
+END
+graph-dav-servers.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/graph-dav-servers.py
+END
+find-bad-style.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/find-bad-style.py
+END
+verify-history.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/verify-history.py
+END
+svnqlite3-dump
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1086098/subversion/trunk/tools/dev/svnqlite3-dump
+END
+gcov.patch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/872560/subversion/trunk/tools/dev/gcov.patch
+END
+stress.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/stress.pl
+END
+gnuify-changelog.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/gnuify-changelog.pl
+END
+gen-py-errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/dev/gen-py-errors.py
+END
+mklog.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/dev/mklog.py
+END
+find-unmoved-deprecated.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/find-unmoved-deprecated.sh
+END
+gen_junit_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/dev/gen_junit_report.py
+END
+prebuild-cleanup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/prebuild-cleanup.sh
+END
+scramble-tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dev/scramble-tree.py
+END
+gen-javahl-errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/881123/subversion/trunk/tools/dev/gen-javahl-errors.py
+END

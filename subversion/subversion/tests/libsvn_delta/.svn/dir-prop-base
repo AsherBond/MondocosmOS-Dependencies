@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 206
+Debug
+Release
+.libs
+ev2-from-delta-editor-test
+deltaparse-test
+delta-combine-test
+vdelta-test
+random-test
+xml-output-test
+svndiff-test
+window-test
+editor-test
+combined
+*.o
+*.lo
+*~
+.*~
+*.exe
+copy_*
+random_*
+
+END

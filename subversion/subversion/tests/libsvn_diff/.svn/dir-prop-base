@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 118
+Debug
+Release
+.libs
+diff-diff3-test
+parse-diff-test
+*.o
+*.lo
+*~
+.*~
+*.exe
+B*
+T*
+combined
+modified1
+modified2
+original
+
+END

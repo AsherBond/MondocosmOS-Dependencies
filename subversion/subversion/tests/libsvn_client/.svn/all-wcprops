@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1153458/subversion/trunk/subversion/tests/libsvn_client
+END
+client-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1153458/subversion/trunk/subversion/tests/libsvn_client/client-test.c
+END

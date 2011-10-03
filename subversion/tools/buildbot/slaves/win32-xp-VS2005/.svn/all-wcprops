@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/win32-xp-VS2005
+END
+do_all.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/win32-xp-VS2005/do_all.bat
+END
+svncheck.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/win32-xp-VS2005/svncheck.bat
+END
+config.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/win32-xp-VS2005/config.bat
+END
+svnbuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/win32-xp-VS2005/svnbuild.bat
+END
+svnlog.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/win32-xp-VS2005/svnlog.bat
+END
+svnclean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/win32-xp-VS2005/svnclean.bat
+END

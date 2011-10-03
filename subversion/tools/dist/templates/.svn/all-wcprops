@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1170198/subversion/trunk/tools/dist/templates
+END
+rc-news.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1156949/subversion/trunk/tools/dist/templates/rc-news.ezt
+END
+rc-candidates.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1170198/subversion/trunk/tools/dist/templates/rc-candidates.ezt
+END
+stable-release-ann.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1145231/subversion/trunk/tools/dist/templates/stable-release-ann.ezt
+END
+download.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1163698/subversion/trunk/tools/dist/templates/download.ezt
+END
+stable-candidates.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1170198/subversion/trunk/tools/dist/templates/stable-candidates.ezt
+END
+nightly-candidates.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1170198/subversion/trunk/tools/dist/templates/nightly-candidates.ezt
+END
+rc-release-ann.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1145234/subversion/trunk/tools/dist/templates/rc-release-ann.ezt
+END
+htaccess.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1170198/subversion/trunk/tools/dist/templates/htaccess.ezt
+END

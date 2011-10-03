@@ -1,0 +1,36 @@
+K 10
+svn:ignore
+V 336
+ra_plugin.hi
+svn_fs.c
+_Client.bs
+ra_reporter.hi
+Makefile.wc
+Makefile.client
+_Core.bs
+_Repos.bs
+svn_repos.c
+svn_delta.c
+_Ra.bs
+modules
+core.c
+_Fs.bs
+_Wc.bs
+Makefile
+Makefile.ra
+svn_wc.c
+Makefile.fs
+svn_client.c
+_Delta.bs
+delta_editor.hi
+Makefile.repos
+Makefile.delta
+pm_to_blib
+blib
+svn_ra.c
+Makefile.old
+blibdirs
+Makefile.PL
+svn_diff.c
+
+END

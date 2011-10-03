@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 54
+.libs
+ra-local-test
+test-repo-*
+*.o
+*.lo
+*~
+.*~
+*.exe
+
+END

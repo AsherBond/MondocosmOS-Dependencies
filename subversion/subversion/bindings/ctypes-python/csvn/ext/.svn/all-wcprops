@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/csvn/ext
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/875322/subversion/trunk/subversion/bindings/ctypes-python/csvn/ext/__init__.py
+END
+callback_receiver.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/csvn/ext/callback_receiver.py
+END
+listmixin.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/csvn/ext/listmixin.py
+END

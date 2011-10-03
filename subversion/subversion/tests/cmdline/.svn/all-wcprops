@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1177732/subversion/trunk/subversion/tests/cmdline
+END
+cat_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/tests/cmdline/cat_tests.py
+END
+revert_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1158936/subversion/trunk/subversion/tests/cmdline/revert_tests.py
+END
+svneditor.bat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/882257/subversion/trunk/subversion/tests/cmdline/svneditor.bat
+END
+entries_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1043397/subversion/trunk/subversion/tests/cmdline/entries_tests.py
+END
+import_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1156218/subversion/trunk/subversion/tests/cmdline/import_tests.py
+END
+mergeinfo_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1163383/subversion/trunk/subversion/tests/cmdline/mergeinfo_tests.py
+END
+svnmucc_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1144381/subversion/trunk/subversion/tests/cmdline/svnmucc_tests.py
+END
+svnrdump_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/tests/cmdline/svnrdump_tests.py
+END
+svnadmin_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1151020/subversion/trunk/subversion/tests/cmdline/svnadmin_tests.py
+END
+tree_conflict_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1161219/subversion/trunk/subversion/tests/cmdline/tree_conflict_tests.py
+END
+log_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1149160/subversion/trunk/subversion/tests/cmdline/log_tests.py
+END
+changelist_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1159299/subversion/trunk/subversion/tests/cmdline/changelist_tests.py
+END
+resolved_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1067380/subversion/trunk/subversion/tests/cmdline/resolved_tests.py
+END
+upgrade_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1169650/subversion/trunk/subversion/tests/cmdline/upgrade_tests.py
+END
+trans_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1067380/subversion/trunk/subversion/tests/cmdline/trans_tests.py
+END
+lock_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1171732/subversion/trunk/subversion/tests/cmdline/lock_tests.py
+END
+svnlook_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1067380/subversion/trunk/subversion/tests/cmdline/svnlook_tests.py
+END
+svneditor.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/915036/subversion/trunk/subversion/tests/cmdline/svneditor.py
+END
+history_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1067380/subversion/trunk/subversion/tests/cmdline/history_tests.py
+END
+redirect_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1141953/subversion/trunk/subversion/tests/cmdline/redirect_tests.py
+END
+switch_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1143357/subversion/trunk/subversion/tests/cmdline/switch_tests.py
+END
+atomic-ra-revprop-change.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/tests/cmdline/atomic-ra-revprop-change.c
+END
+svnserveautocheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1140093/subversion/trunk/subversion/tests/cmdline/svnserveautocheck.sh
+END
+svndumpfilter_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1159772/subversion/trunk/subversion/tests/cmdline/svndumpfilter_tests.py
+END
+svnsync_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1143348/subversion/trunk/subversion/tests/cmdline/svnsync_tests.py
+END
+theta.bin
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/857792/subversion/trunk/subversion/tests/cmdline/theta.bin
+END
+externals_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1174111/subversion/trunk/subversion/tests/cmdline/externals_tests.py
+END
+tree_conflict_tests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/874349/subversion/trunk/subversion/tests/cmdline/tree_conflict_tests.txt
+END
+diff_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1166267/subversion/trunk/subversion/tests/cmdline/diff_tests.py
+END
+input_validation_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1160204/subversion/trunk/subversion/tests/cmdline/input_validation_tests.py
+END
+autoprop_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1067380/subversion/trunk/subversion/tests/cmdline/autoprop_tests.py
+END
+merge_authz_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1160756/subversion/trunk/subversion/tests/cmdline/merge_authz_tests.py
+END
+copy_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1158875/subversion/trunk/subversion/tests/cmdline/copy_tests.py
+END
+stat_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1145666/subversion/trunk/subversion/tests/cmdline/stat_tests.py
+END
+svnversion_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1158217/subversion/trunk/subversion/tests/cmdline/svnversion_tests.py
+END
+resolve_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1165713/subversion/trunk/subversion/tests/cmdline/resolve_tests.py
+END
+prop_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1171732/subversion/trunk/subversion/tests/cmdline/prop_tests.py
+END
+special_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1158217/subversion/trunk/subversion/tests/cmdline/special_tests.py
+END
+blame_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/tests/cmdline/blame_tests.py
+END
+export_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1129621/subversion/trunk/subversion/tests/cmdline/export_tests.py
+END
+basic_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1174111/subversion/trunk/subversion/tests/cmdline/basic_tests.py
+END
+update_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1148424/subversion/trunk/subversion/tests/cmdline/update_tests.py
+END
+entries-dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/tests/cmdline/entries-dump.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/984280/subversion/trunk/subversion/tests/cmdline/README
+END
+utf8_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1067380/subversion/trunk/subversion/tests/cmdline/utf8_tests.py
+END
+dav-mirror-autocheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1095662/subversion/trunk/subversion/tests/cmdline/dav-mirror-autocheck.sh
+END
+commit_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1139378/subversion/trunk/subversion/tests/cmdline/commit_tests.py
+END
+merge_reintegrate_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1162995/subversion/trunk/subversion/tests/cmdline/merge_reintegrate_tests.py
+END
+info_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1162033/subversion/trunk/subversion/tests/cmdline/info_tests.py
+END
+authz_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1177732/subversion/trunk/subversion/tests/cmdline/authz_tests.py
+END
+schedule_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1088811/subversion/trunk/subversion/tests/cmdline/schedule_tests.py
+END
+relocate_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/tests/cmdline/relocate_tests.py
+END
+merge_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1173807/subversion/trunk/subversion/tests/cmdline/merge_tests.py
+END
+merge_tree_conflict_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1166229/subversion/trunk/subversion/tests/cmdline/merge_tree_conflict_tests.py
+END
+patch_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1165275/subversion/trunk/subversion/tests/cmdline/patch_tests.py
+END
+davautocheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1141292/subversion/trunk/subversion/tests/cmdline/davautocheck.sh
+END
+getopt_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1084581/subversion/trunk/subversion/tests/cmdline/getopt_tests.py
+END
+depth_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1158617/subversion/trunk/subversion/tests/cmdline/depth_tests.py
+END
+checkout_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1091399/subversion/trunk/subversion/tests/cmdline/checkout_tests.py
+END

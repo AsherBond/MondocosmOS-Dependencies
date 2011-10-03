@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/svncopy
+END
+svncopy.pl.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/svncopy/svncopy.pl.in
+END
+testsvncopy.pl.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/svncopy/testsvncopy.pl.in
+END
+svncopy.README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/svncopy/svncopy.README
+END

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 35
+.libs
+build
+*.c
+*.o
+*.lo
+*.la
+*.py
+
+END

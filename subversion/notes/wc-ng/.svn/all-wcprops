@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1172391/subversion/trunk/notes/wc-ng
+END
+single-db-per-wc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/961331/subversion/trunk/notes/wc-ng/single-db-per-wc
+END
+revert-in-subtree.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/916774/subversion/trunk/notes/wc-ng/revert-in-subtree.svg
+END
+use-of-tmp-text-base-path
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/944218/subversion/trunk/notes/wc-ng/use-of-tmp-text-base-path
+END
+modularization
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/938230/subversion/trunk/notes/wc-ng/modularization
+END
+conflict-storage
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/992566/subversion/trunk/notes/wc-ng/conflict-storage
+END
+externals
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1102855/subversion/trunk/notes/wc-ng/externals
+END
+locking
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/886648/subversion/trunk/notes/wc-ng/locking
+END
+pristine-store
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1075942/subversion/trunk/notes/wc-ng/pristine-store
+END
+copying
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1022597/subversion/trunk/notes/wc-ng/copying
+END
+nodes
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1005822/subversion/trunk/notes/wc-ng/nodes
+END
+design
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/954279/subversion/trunk/notes/wc-ng/design
+END
+conflict-ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/928789/subversion/trunk/notes/wc-ng/conflict-ui
+END
+node-data
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/986865/subversion/trunk/notes/wc-ng/node-data
+END
+transitions
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1172391/subversion/trunk/notes/wc-ng/transitions
+END

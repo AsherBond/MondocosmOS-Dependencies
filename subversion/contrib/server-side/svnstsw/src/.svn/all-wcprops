@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1054001/subversion/trunk/contrib/server-side/svnstsw/src
+END
+exec_svnserve.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/872407/subversion/trunk/contrib/server-side/svnstsw/src/exec_svnserve.c
+END
+svnstsw_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/872407/subversion/trunk/contrib/server-side/svnstsw/src/svnstsw_compat.h
+END
+get_tunnel_user_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/872407/subversion/trunk/contrib/server-side/svnstsw/src/get_tunnel_user_name.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1054001/subversion/trunk/contrib/server-side/svnstsw/src/main.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/870938/subversion/trunk/contrib/server-side/svnstsw/src/Makefile.am
+END
+svnstsw_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/872407/subversion/trunk/contrib/server-side/svnstsw/src/svnstsw_compat.c
+END
+fso_is_changeable.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1054001/subversion/trunk/contrib/server-side/svnstsw/src/fso_is_changeable.c
+END

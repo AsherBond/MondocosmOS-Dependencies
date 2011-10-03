@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1158929/subversion/trunk/subversion/tests/libsvn_diff
+END
+diff-diff3-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/tests/libsvn_diff/diff-diff3-test.c
+END
+parse-diff-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1158929/subversion/trunk/subversion/tests/libsvn_diff/parse-diff-test.c
+END

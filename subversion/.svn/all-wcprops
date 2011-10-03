@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/asf/!svn/ver/1178282/subversion/trunk
+END
+get-deps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1175068/subversion/trunk/get-deps.sh
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/1086114/subversion/trunk/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/906165/subversion/trunk/LICENSE
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1158224/subversion/trunk/Makefile.in
+END
+build.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1173137/subversion/trunk/build.conf
+END
+win-tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/1145707/subversion/trunk/win-tests.py
+END
+COMMITTERS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1140203/subversion/trunk/COMMITTERS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/1141639/subversion/trunk/README
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/asf/!svn/ver/915036/subversion/trunk/BUGS
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/1156527/subversion/trunk/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1151854/subversion/trunk/INSTALL
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1176949/subversion/trunk/CHANGES
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1142604/subversion/trunk/autogen.sh
+END
+gen-make.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1085454/subversion/trunk/gen-make.py
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/888070/subversion/trunk/aclocal.m4
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1086097/subversion/trunk/tools/hook-scripts/mailer/tests
+END
+mailer-init.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/885511/subversion/trunk/tools/hook-scripts/mailer/tests/mailer-init.sh
+END
+mailer-t1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/hook-scripts/mailer/tests/mailer-t1.sh
+END
+mailer-tweak.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/hook-scripts/mailer/tests/mailer-tweak.py
+END
+mailer-t1.output
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/885511/subversion/trunk/tools/hook-scripts/mailer/tests/mailer-t1.output
+END
+mailer.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1086097/subversion/trunk/tools/hook-scripts/mailer/tests/mailer.conf
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1150060/subversion/trunk/build/generator/swig
+END
+header_wrappers.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1149401/subversion/trunk/build/generator/swig/header_wrappers.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1150060/subversion/trunk/build/generator/swig/__init__.py
+END
+external_runtime.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1049503/subversion/trunk/build/generator/swig/external_runtime.py
+END
+checkout_swig_header.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1049503/subversion/trunk/build/generator/swig/checkout_swig_header.py
+END

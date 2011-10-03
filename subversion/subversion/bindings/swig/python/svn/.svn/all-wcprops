@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1158288/subversion/trunk/subversion/bindings/swig/python/svn
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/bindings/swig/python/svn/core.py
+END
+diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/915036/subversion/trunk/subversion/bindings/swig/python/svn/diff.py
+END
+fs.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/915036/subversion/trunk/subversion/bindings/swig/python/svn/fs.py
+END
+repos.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1158288/subversion/trunk/subversion/bindings/swig/python/svn/repos.py
+END
+delta.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/981683/subversion/trunk/subversion/bindings/swig/python/svn/delta.py
+END
+wc.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/915036/subversion/trunk/subversion/bindings/swig/python/svn/wc.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/915036/subversion/trunk/subversion/bindings/swig/python/svn/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/915036/subversion/trunk/subversion/bindings/swig/python/svn/__init__.py
+END
+ra.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/915036/subversion/trunk/subversion/bindings/swig/python/svn/ra.py
+END

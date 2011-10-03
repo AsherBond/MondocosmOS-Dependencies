@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/buildbot/master
+END
+SVNMailNotifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/buildbot/master/SVNMailNotifier.py
+END
+private-sample.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/buildbot/master/private-sample.py
+END
+Feeder.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1141953/subversion/trunk/tools/buildbot/master/Feeder.py
+END
+master.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/897298/subversion/trunk/tools/buildbot/master/master.cfg
+END

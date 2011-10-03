@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1166111/subversion/trunk/subversion/tests/libsvn_repos
+END
+dir-delta-editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/tests/libsvn_repos/dir-delta-editor.h
+END
+repos-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1166111/subversion/trunk/subversion/tests/libsvn_repos/repos-test.c
+END
+dir-delta-editor.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1054704/subversion/trunk/subversion/tests/libsvn_repos/dir-delta-editor.c
+END

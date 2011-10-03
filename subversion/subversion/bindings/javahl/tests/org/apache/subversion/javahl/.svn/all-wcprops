@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1166158/subversion/trunk/subversion/bindings/javahl/tests/org/apache/subversion/javahl
+END
+SVNReposTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1040264/subversion/trunk/subversion/bindings/javahl/tests/org/apache/subversion/javahl/SVNReposTests.java
+END
+BasicTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1166158/subversion/trunk/subversion/bindings/javahl/tests/org/apache/subversion/javahl/BasicTests.java
+END
+RunTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/992028/subversion/trunk/subversion/bindings/javahl/tests/org/apache/subversion/javahl/RunTests.java
+END
+SVNTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1145712/subversion/trunk/subversion/bindings/javahl/tests/org/apache/subversion/javahl/SVNTests.java
+END
+WC.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1054680/subversion/trunk/subversion/bindings/javahl/tests/org/apache/subversion/javahl/WC.java
+END

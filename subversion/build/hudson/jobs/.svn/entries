@@ -1,0 +1,46 @@
+10
+
+dir
+1178390
+http://svn.apache.org/repos/asf/subversion/trunk/build/hudson/jobs
+http://svn.apache.org/repos/asf
+
+
+
+2010-05-22T08:21:07.376696Z
+947269
+gmcdonald
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+subversion-trunk-ubuntu
+dir
+
+subversion-1.6.x-solaris
+dir
+
+subversion-javadoc
+dir
+
+subversion-1.6.x-ubuntu
+dir
+
+subversion-doxygen
+dir
+
+subversion-trunk-solaris
+dir
+

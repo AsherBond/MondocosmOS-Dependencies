@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 65
+Debug
+Release
+*.lo
+*.la
+.libs
+*.la-a
+*.o
+*~
+.*~
+libsvn_repos.def
+
+END

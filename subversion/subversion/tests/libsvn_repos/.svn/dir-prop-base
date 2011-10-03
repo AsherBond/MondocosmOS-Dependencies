@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 73
+Debug
+Release
+.libs
+repos-test
+test-repo-*
+md5args
+*.o
+*.lo
+*~
+.*~
+*.exe
+
+END

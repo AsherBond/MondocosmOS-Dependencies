@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 60
+.libs
+client-test
+*.lo
+test-patch*
+test-wc*
+test-copy-crash
+
+END

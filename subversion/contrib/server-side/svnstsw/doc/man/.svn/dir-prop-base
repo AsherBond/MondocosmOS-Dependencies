@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 106
+libsvnstsw.3
+svnstsw_fso_is_changeable.3
+svnstsw_exec_svnserve.3
+svnstsw_get_tunnel_user_name.3
+svnstsw.8
+
+END

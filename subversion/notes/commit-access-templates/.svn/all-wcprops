@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1067283/subversion/trunk/notes/commit-access-templates
+END
+pmc-member.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1067283/subversion/trunk/notes/commit-access-templates/pmc-member.tmpl
+END
+partial-committer.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/933682/subversion/trunk/notes/commit-access-templates/partial-committer.tmpl
+END
+contrib-committer.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/933682/subversion/trunk/notes/commit-access-templates/contrib-committer.tmpl
+END
+full-committer.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1067283/subversion/trunk/notes/commit-access-templates/full-committer.tmpl
+END

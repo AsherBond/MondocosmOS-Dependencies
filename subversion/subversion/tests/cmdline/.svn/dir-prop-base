@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 96
+svn-test-work
+httpd-*
+.gdb_history
+*.pyc
+*.o
+*~
+.*~
+entries-dump
+atomic-ra-revprop-change
+.libs
+
+END

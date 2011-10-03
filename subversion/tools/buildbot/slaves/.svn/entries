@@ -1,0 +1,89 @@
+10
+
+dir
+1178390
+http://svn.apache.org/repos/asf/subversion/trunk/tools/buildbot/slaves
+http://svn.apache.org/repos/asf
+
+
+
+2011-07-05T11:05:36.968866Z
+1142981
+philip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+xp-vc60-ia32
+dir
+
+ubuntu-x64
+dir
+
+win32-SharpSvn
+dir
+
+win32-xp-VS2005
+dir
+
+svn-x64-macosx-gnu-shared-daily-ra_serf
+dir
+
+svn-x64-macosx-gnu-shared
+dir
+
+bb-openbsd
+dir
+
+centos
+dir
+
+i686-debian-sarge1
+dir
+
+README
+file
+
+
+
+
+2011-10-03T12:40:39.331320Z
+10461026bc8f66f57794ad8196eb82c3
+2010-01-28T23:24:20.752588Z
+904301
+neels
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3705
+

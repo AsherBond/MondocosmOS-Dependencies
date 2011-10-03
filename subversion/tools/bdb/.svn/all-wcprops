@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/bdb
+END
+erase-all-text-data.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/bdb/erase-all-text-data.py
+END
+skel.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/bdb/skel.py
+END
+svnfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/bdb/svnfs.py
+END
+svn-bdb-view.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/bdb/svn-bdb-view.py
+END
+whatis-rep.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/bdb/whatis-rep.py
+END

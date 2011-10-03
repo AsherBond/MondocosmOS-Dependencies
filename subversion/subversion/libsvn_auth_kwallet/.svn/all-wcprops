@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/libsvn_auth_kwallet
+END
+kwallet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/libsvn_auth_kwallet/kwallet.cpp
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_auth_kwallet/version.c
+END

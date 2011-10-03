@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1054001/subversion/trunk/contrib/server-side/svnstsw
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/877787/subversion/trunk/contrib/server-side/svnstsw/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/870938/subversion/trunk/contrib/server-side/svnstsw/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/870938/subversion/trunk/contrib/server-side/svnstsw/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/870938/subversion/trunk/contrib/server-side/svnstsw/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/870938/subversion/trunk/contrib/server-side/svnstsw/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/877787/subversion/trunk/contrib/server-side/svnstsw/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/870938/subversion/trunk/contrib/server-side/svnstsw/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/870938/subversion/trunk/contrib/server-side/svnstsw/README
+END

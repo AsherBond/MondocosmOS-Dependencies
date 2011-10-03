@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 51
+*.pyc
+*.py
+*.c
+*.la
+*.lo
+libsvn
+.libs
+.gdb_history
+
+END

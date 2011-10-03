@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/asf/!svn/ver/1172391/subversion/trunk/notes
+END
+repos_upgrade_HOWTO
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/862719/subversion/trunk/notes/repos_upgrade_HOWTO
+END
+sasl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/878279/subversion/trunk/notes/sasl.txt
+END
+external-vs-switched
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/988207/subversion/trunk/notes/external-vs-switched
+END
+svnsync.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/872960/subversion/trunk/notes/svnsync.txt
+END
+sql-backend
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/871700/subversion/trunk/notes/sql-backend
+END
+wc_node_walkers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1087866/subversion/trunk/notes/wc_node_walkers.txt
+END
+sparse-directories.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/880446/subversion/trunk/notes/sparse-directories.txt
+END
+dump-load-format.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/979301/subversion/trunk/notes/dump-load-format.txt
+END
+alternate-bdb-version
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/858598/subversion/trunk/notes/alternate-bdb-version
+END
+EuroOSCON-2005-vc-bof.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/871700/subversion/trunk/notes/EuroOSCON-2005-vc-bof.txt
+END
+autoversioning-strategy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/851835/subversion/trunk/notes/autoversioning-strategy.txt
+END
+interactive-conflict-resolution.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/904301/subversion/trunk/notes/interactive-conflict-resolution.txt
+END
+diff-optimizations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1102471/subversion/trunk/notes/diff-optimizations.txt
+END
+diff-encodings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/857625/subversion/trunk/notes/diff-encodings.txt
+END
+propmerging_sanity.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/855261/subversion/trunk/notes/propmerging_sanity.txt
+END
+commit-from-multiple-working-copies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/878295/subversion/trunk/notes/commit-from-multiple-working-copies.txt
+END
+wc-improvements
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/871700/subversion/trunk/notes/wc-improvements
+END
+line-endings-and-keywords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/850838/subversion/trunk/notes/line-endings-and-keywords.txt
+END
+assurance.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/847671/subversion/trunk/notes/assurance.txt
+END
+autoversion-compatibility.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/844602/subversion/trunk/notes/autoversion-compatibility.txt
+END
+entries-caching
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/851797/subversion/trunk/notes/entries-caching
+END
+fsfs-improvements.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1169755/subversion/trunk/notes/fsfs-improvements.txt
+END
+windows-service.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/858929/subversion/trunk/notes/windows-service.txt
+END
+changelist-design.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/869049/subversion/trunk/notes/changelist-design.txt
+END
+subversion-diagram.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/899816/subversion/trunk/notes/subversion-diagram.graffle
+END
+subversion-design.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/999778/subversion/trunk/notes/subversion-design.html
+END
+changeset-signing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/856021/subversion/trunk/notes/changeset-signing.txt
+END
+fs-improvements.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/873094/subversion/trunk/notes/fs-improvements.txt
+END
+knobs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1148992/subversion/trunk/notes/knobs
+END
+unicode-composition-for-filenames
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1073413/subversion/trunk/notes/unicode-composition-for-filenames
+END
+fs_dumprestore.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/904301/subversion/trunk/notes/fs_dumprestore.txt
+END
+skip-deltas
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/871700/subversion/trunk/notes/skip-deltas
+END
+object-model.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/904301/subversion/trunk/notes/object-model.txt
+END
+client-configuration
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1069963/subversion/trunk/notes/client-configuration
+END
+xfail-status
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1133153/subversion/trunk/notes/xfail-status
+END
+diff-data-flows.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1160318/subversion/trunk/notes/diff-data-flows.txt
+END
+hold
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1161318/subversion/trunk/notes/hold
+END
+anchors_and_targets.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/847272/subversion/trunk/notes/anchors_and_targets.txt
+END
+variance-adjusted-patching.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1065546/subversion/trunk/notes/variance-adjusted-patching.html
+END
+compatibility.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/873082/subversion/trunk/notes/compatibility.txt
+END
+authz_policy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/859714/subversion/trunk/notes/authz_policy.txt
+END
+ra-serf-testing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1148629/subversion/trunk/notes/ra-serf-testing.txt
+END
+editor-v2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/938546/subversion/trunk/notes/editor-v2.txt
+END
+copies-during-updates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/866545/subversion/trunk/notes/copies-during-updates.txt
+END
+schema-tradeoffs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/855947/subversion/trunk/notes/schema-tradeoffs.txt
+END
+subversion-design.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/900553/subversion/trunk/notes/subversion-design.png
+END
+moves
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1161225/subversion/trunk/notes/moves
+END
+ssh-tricks
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/871700/subversion/trunk/notes/ssh-tricks
+END
+l10n-problems
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/915036/subversion/trunk/notes/l10n-problems
+END
+txdelta_sanity
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/844445/subversion/trunk/notes/txdelta_sanity
+END
+cli-repo-root-relative-support.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/877092/subversion/trunk/notes/cli-repo-root-relative-support.txt
+END
+svndiff
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/864564/subversion/trunk/notes/svndiff
+END
+api-changes-1.7.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1136123/subversion/trunk/notes/api-changes-1.7.txt
+END
+test-writing
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/871700/subversion/trunk/notes/test-writing
+END
+fsfs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/915036/subversion/trunk/notes/fsfs
+END
+repos-dictated-config
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/953977/subversion/trunk/notes/repos-dictated-config
+END
+asp-dot-net-hack.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/856920/subversion/trunk/notes/asp-dot-net-hack.txt
+END

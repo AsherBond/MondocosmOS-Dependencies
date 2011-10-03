@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/904301/subversion/trunk/contrib/cgi
+END
+mirror_dir_through_svn.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/870115/subversion/trunk/contrib/cgi/mirror_dir_through_svn.cgi
+END
+mirror_dir_through_svn.README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/904301/subversion/trunk/contrib/cgi/mirror_dir_through_svn.README
+END
+tweak-log.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/cgi/tweak-log.cgi
+END

@@ -1,0 +1,54 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 4486
+/subversion/branches/1.5.x-r30215/subversion/libsvn_diff/diff.h:870312
+/subversion/branches/atomic-revprop/subversion/libsvn_diff/diff.h:965046-1000689
+/subversion/branches/bdb-reverse-deltas/subversion/libsvn_diff/diff.h:872050-872529
+/subversion/branches/diff-callbacks3/subversion/libsvn_diff/diff.h:870059-870761
+/subversion/branches/diff-optimizations/subversion/include/private/svn_adler32.h:1031270-1037352
+/subversion/branches/diff-optimizations-bytes/subversion/include/private/svn_adler32.h:1037353-1067789
+/subversion/branches/dont-save-plaintext-passwords-by-default/subversion/libsvn_diff/diff.h:870728-871118
+/subversion/branches/double-delete/subversion/libsvn_diff/diff.h:870511-872970
+/subversion/branches/explore-wc/subversion/libsvn_diff/diff.h:875486,875493,875497,875507,875511,875514,875559,875580-875581,875584,875587,875611,875627,875647,875667-875668,875711-875712,875733-875734,875736,875744-875748,875751,875758,875782,875795-875796,875830,875836,875838,875842,875852,875855,875864,875870,875873,875880,875885-875888,875890,875897-875898,875905,875907-875909,875935,875943-875944,875946,875979,875982-875983,875985-875986,875990,875997
+/subversion/branches/file-externals/subversion/libsvn_diff/diff.h:871779-873302
+/subversion/branches/fs-rep-sharing/subversion/libsvn_diff/diff.h:869036-873803
+/subversion/branches/fsfs-pack/subversion/libsvn_diff/diff.h:873717-874575
+/subversion/branches/gnome-keyring/subversion/libsvn_diff/diff.h:870558-871410
+/subversion/branches/http-protocol-v2/subversion/libsvn_diff/diff.h:874395-876041
+/subversion/branches/in-memory-cache/subversion/libsvn_diff/diff.h:869829-871452
+/subversion/branches/issue-2779-dev/subversion/libsvn_diff/diff.h:965496-984198
+/subversion/branches/issue-2843-dev/subversion/libsvn_diff/diff.h:871432-874179
+/subversion/branches/issue-3000/subversion/libsvn_diff/diff.h:871713,871716-871719,871721-871726,871728,871734
+/subversion/branches/issue-3067-deleted-subtrees/subversion/libsvn_diff/diff.h:873375-874084
+/subversion/branches/issue-3148-dev/subversion/libsvn_diff/diff.h:875193-875204
+/subversion/branches/issue-3220-dev/subversion/libsvn_diff/diff.h:872210-872226
+/subversion/branches/issue-3242-dev/subversion/libsvn_diff/diff.h:879653-896436
+/subversion/branches/issue-3334-dirs/subversion/libsvn_diff/diff.h:875156-875867
+/subversion/branches/issue-3668-3669/subversion/libsvn_diff/diff.h:1031000-1035744
+/subversion/branches/kwallet/subversion/libsvn_diff/diff.h:870785-871314
+/subversion/branches/log-g-performance/subversion/libsvn_diff/diff.h:870941-871032
+/subversion/branches/merge-skips-obstructions/subversion/libsvn_diff/diff.h:874525-874615
+/subversion/branches/nfc-nfd-aware-client/subversion/libsvn_diff/diff.h:870276,870376
+/subversion/branches/performance/subversion/include/private/svn_adler32.h:1067697-1078365
+/subversion/branches/performance/subversion/libsvn_diff/diff.h:982355,983764,983766,984927,984984,985014,985037,985046,985472,985477,985482,985500,985606,985669,986453,987888,987893,995507,995603,1001413,1025660,1028092,1028094,1028104,1029038,1029042,1029090,1029092,1029335,1030763
+/subversion/branches/py-tests-as-modules/subversion/libsvn_diff/diff.h:956579-1033052
+/subversion/branches/ra_serf-digest-authn/subversion/libsvn_diff/diff.h:875693-876404
+/subversion/branches/reintegrate-improvements/subversion/libsvn_diff/diff.h:873853-874164
+/subversion/branches/revprop-packing/subversion/include/private/svn_adler32.h:1143907,1143971,1144017,1144568,1146145
+/subversion/branches/subtree-mergeinfo/subversion/libsvn_diff/diff.h:876734-878766
+/subversion/branches/svn-mergeinfo-enhancements/subversion/libsvn_diff/diff.h:870119-870195,870197-870288
+/subversion/branches/svn-patch-improvements/subversion/libsvn_diff/diff.h:918519-934609
+/subversion/branches/svnpatch-diff/subversion/libsvn_diff/diff.h:865738-876477
+/subversion/branches/svnraisetc/subversion/libsvn_diff/diff.h:874709-875149
+/subversion/branches/svnserve-logging/subversion/libsvn_diff/diff.h:869828-870893
+/subversion/branches/tc-issue-3334/subversion/libsvn_diff/diff.h:874697-874773
+/subversion/branches/tc-merge-notify/subversion/libsvn_diff/diff.h:874017-874062
+/subversion/branches/tc-resolve/subversion/libsvn_diff/diff.h:874191-874239
+/subversion/branches/tc_url_rev/subversion/libsvn_diff/diff.h:874351-874483
+/subversion/branches/tree-conflicts/subversion/libsvn_diff/diff.h:868291-873154
+/subversion/branches/tree-conflicts-notify/subversion/libsvn_diff/diff.h:873926-874008
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1068181/subversion/trunk/tools/diff
+END
+diff.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1053998/subversion/trunk/tools/diff/diff.c
+END
+diff3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1068181/subversion/trunk/tools/diff/diff3.c
+END
+diff4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1068181/subversion/trunk/tools/diff/diff4.c
+END

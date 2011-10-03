@@ -1,0 +1,12 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 375
+/subversion/branches/diff-optimizations/subversion/libsvn_subr/adler32.c:1031270-1037352
+/subversion/branches/diff-optimizations-bytes/subversion/libsvn_subr/adler32.c:1037353-1067789
+/subversion/branches/performance/subversion/libsvn_subr/adler32.c:1067697-1078365
+/subversion/branches/revprop-packing/subversion/libsvn_subr/adler32.c:1143907,1143971,1144017,1144568,1146145
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1149398/subversion/trunk/subversion/bindings/swig/perl/native/t
+END
+4pool.t
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/t/4pool.t
+END
+7editor.t
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/t/7editor.t
+END
+5delta.t
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/t/5delta.t
+END
+5delta-compat.t
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/t/5delta-compat.t
+END
+8lock.t
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1149398/subversion/trunk/subversion/bindings/swig/perl/native/t/8lock.t
+END
+3client.t
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/t/3client.t
+END
+6ra.t
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/885544/subversion/trunk/subversion/bindings/swig/perl/native/t/6ra.t
+END
+1repos.t
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/t/1repos.t
+END
+2fs.t
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1146832/subversion/trunk/subversion/bindings/swig/perl/native/t/2fs.t
+END
+0use.t
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/885544/subversion/trunk/subversion/bindings/swig/perl/native/t/0use.t
+END

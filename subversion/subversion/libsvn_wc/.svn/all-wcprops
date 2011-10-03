@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1177732/subversion/trunk/subversion/libsvn_wc
+END
+relocate.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1140543/subversion/trunk/subversion/libsvn_wc/relocate.c
+END
+deprecated.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1144869/subversion/trunk/subversion/libsvn_wc/deprecated.c
+END
+revision_status.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1102325/subversion/trunk/subversion/libsvn_wc/revision_status.c
+END
+props.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1151590/subversion/trunk/subversion/libsvn_wc/props.c
+END
+crop.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1142709/subversion/trunk/subversion/libsvn_wc/crop.c
+END
+externals.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1174693/subversion/trunk/subversion/libsvn_wc/externals.c
+END
+props.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1161316/subversion/trunk/subversion/libsvn_wc/props.h
+END
+wc_db_wcroot.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1158187/subversion/trunk/subversion/libsvn_wc/wc_db_wcroot.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1138425/subversion/trunk/subversion/libsvn_wc/util.c
+END
+ambient_depth_filter_editor.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1152859/subversion/trunk/subversion/libsvn_wc/ambient_depth_filter_editor.c
+END
+diff_editor.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1174041/subversion/trunk/subversion/libsvn_wc/diff_editor.c
+END
+wc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1158963/subversion/trunk/subversion/libsvn_wc/wc.h
+END
+adm_ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1159286/subversion/trunk/subversion/libsvn_wc/adm_ops.c
+END
+status.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1177732/subversion/trunk/subversion/libsvn_wc/status.c
+END
+adm_files.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1151590/subversion/trunk/subversion/libsvn_wc/adm_files.c
+END
+conflicts.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1150372/subversion/trunk/subversion/libsvn_wc/conflicts.c
+END
+wc-checks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1133732/subversion/trunk/subversion/libsvn_wc/wc-checks.sql
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1151590/subversion/trunk/subversion/libsvn_wc/lock.c
+END
+adm_files.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1100722/subversion/trunk/subversion/libsvn_wc/adm_files.h
+END
+update_editor.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1174132/subversion/trunk/subversion/libsvn_wc/update_editor.c
+END
+conflicts.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1080251/subversion/trunk/subversion/libsvn_wc/conflicts.h
+END
+questions.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1158963/subversion/trunk/subversion/libsvn_wc/questions.c
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1164386/subversion/trunk/subversion/libsvn_wc/info.c
+END
+translate.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1143765/subversion/trunk/subversion/libsvn_wc/translate.c
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/libsvn_wc/lock.h
+END
+merge.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1162201/subversion/trunk/subversion/libsvn_wc/merge.c
+END
+wc-queries.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1174699/subversion/trunk/subversion/libsvn_wc/wc-queries.sql
+END
+translate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/libsvn_wc/translate.h
+END
+old-and-busted.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1136512/subversion/trunk/subversion/libsvn_wc/old-and-busted.c
+END
+tree_conflicts.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1159362/subversion/trunk/subversion/libsvn_wc/tree_conflicts.c
+END
+wc-metadata.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1174612/subversion/trunk/subversion/libsvn_wc/wc-metadata.sql
+END
+tree_conflicts.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1099452/subversion/trunk/subversion/libsvn_wc/tree_conflicts.h
+END
+entries.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1169524/subversion/trunk/subversion/libsvn_wc/entries.c
+END
+copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1164760/subversion/trunk/subversion/libsvn_wc/copy.c
+END
+wc_db_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_wc/wc_db_util.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1099598/subversion/trunk/subversion/libsvn_wc/README
+END
+wc_db_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1128436/subversion/trunk/subversion/libsvn_wc/wc_db_private.h
+END
+entries.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1051906/subversion/trunk/subversion/libsvn_wc/entries.h
+END
+wc_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1177732/subversion/trunk/subversion/libsvn_wc/wc_db.c
+END
+adm_crawler.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1151590/subversion/trunk/subversion/libsvn_wc/adm_crawler.c
+END
+diff_local.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1160691/subversion/trunk/subversion/libsvn_wc/diff_local.c
+END
+wc_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1177732/subversion/trunk/subversion/libsvn_wc/wc_db.h
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1082696/subversion/trunk/subversion/libsvn_wc/context.c
+END
+node.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1156173/subversion/trunk/subversion/libsvn_wc/node.c
+END
+cleanup.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1139088/subversion/trunk/subversion/libsvn_wc/cleanup.c
+END
+upgrade.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1174342/subversion/trunk/subversion/libsvn_wc/upgrade.c
+END
+workqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1158616/subversion/trunk/subversion/libsvn_wc/workqueue.c
+END
+wc_db_pristine.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_wc/wc_db_pristine.c
+END
+workqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1095645/subversion/trunk/subversion/libsvn_wc/workqueue.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1177732/subversion/trunk/subversion/tests
+END
+svn_test_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1153527/subversion/trunk/subversion/tests/svn_test_fs.h
+END
+tests.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/901252/subversion/trunk/subversion/tests/tests.conf
+END
+greek-tree.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/861933/subversion/trunk/subversion/tests/greek-tree.txt
+END
+svn_test_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1169947/subversion/trunk/subversion/tests/svn_test_main.c
+END
+svn_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1163175/subversion/trunk/subversion/tests/svn_test.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/920799/subversion/trunk/subversion/tests/README
+END
+svn_test_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1153527/subversion/trunk/subversion/tests/svn_test_fs.c
+END

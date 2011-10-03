@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 102
+Debug
+Release
+.libs
+fs-base-test
+key-test
+test-repo-*
+strings-reps-test
+changes-test
+*.o
+*~
+.*~
+*.exe
+
+END

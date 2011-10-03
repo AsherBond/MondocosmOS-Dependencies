@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 48
+svnversion
+svnversion.exe
+.libs
+*.o
+*.lo
+*~
+.*~
+
+END

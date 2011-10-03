@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1099836/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data
+END
+svnsync-trunk-only.expected.dump
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/svnsync-trunk-only.expected.dump
+END
+tag-trunk-with-file2.dump
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/tag-trunk-with-file2.dump
+END
+repo-with-copy-of-root-dir.dump
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1063595/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/repo-with-copy-of-root-dir.dump
+END
+descend-into-replace.dump
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1063595/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/descend-into-replace.dump
+END
+copy-bad-line-endings2.dump
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1084335/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/copy-bad-line-endings2.dump
+END
+copy-bad-line-endings2.expected.dump
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1084335/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/copy-bad-line-endings2.expected.dump
+END
+copy-and-modify.dump
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/copy-and-modify.dump
+END
+url-encoding-bug.dump
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/url-encoding-bug.dump
+END
+copy-parent-modify-prop.dump
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/copy-parent-modify-prop.dump
+END
+modified-in-place.dump
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/modified-in-place.dump
+END
+delete-svn-props.dump
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/delete-svn-props.dump
+END
+tag-empty-trunk.dump
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/tag-empty-trunk.dump
+END
+copy-from-previous-version.dump
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/copy-from-previous-version.dump
+END
+no-author.dump
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/no-author.dump
+END
+largemods.dump
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1099836/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/largemods.dump
+END
+tag-with-modified-file.dump
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/tag-with-modified-file.dump
+END
+dir-prop-change.dump
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1063595/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/dir-prop-change.dump
+END
+revprops.dump
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/revprops.dump
+END
+delete-revprops.dump
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1021493/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/delete-revprops.dump
+END
+delete-revprops.expected.dump
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1021493/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/delete-revprops.expected.dump
+END
+copy-bad-encoding.dump
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1084335/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/copy-bad-encoding.dump
+END
+copy-bad-encoding.expected.dump
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1084335/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/copy-bad-encoding.expected.dump
+END
+svnsync-trunk-only.dump
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/966458/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/svnsync-trunk-only.dump
+END
+descend-into-replace.expected.dump
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1063595/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/descend-into-replace.expected.dump
+END
+svnsync-trunk-A-changes.expected.dump
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/svnsync-trunk-A-changes.expected.dump
+END
+svnsync-trunk-A-changes.dump
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/966458/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/svnsync-trunk-A-changes.dump
+END
+svnsync-move-and-modify.dump
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/svnsync-move-and-modify.dump
+END
+copy-from-previous-version-and-modify.dump
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/copy-from-previous-version-and-modify.dump
+END
+tag-trunk-with-dir.dump
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/tag-trunk-with-dir.dump
+END
+tag-trunk-with-file.dump
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/tag-trunk-with-file.dump
+END
+file-dir-file.dump
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/file-dir-file.dump
+END
+copy-bad-line-endings.dump
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/966458/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/copy-bad-line-endings.dump
+END
+copy-bad-line-endings.expected.dump
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/979301/subversion/trunk/subversion/tests/cmdline/svnsync_tests_data/copy-bad-line-endings.expected.dump
+END

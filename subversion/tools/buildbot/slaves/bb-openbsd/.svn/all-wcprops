@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1137791/subversion/trunk/tools/buildbot/slaves/bb-openbsd
+END
+svnbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1137462/subversion/trunk/tools/buildbot/slaves/bb-openbsd/svnbuild.sh
+END
+svnclean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1137455/subversion/trunk/tools/buildbot/slaves/bb-openbsd/svnclean.sh
+END
+svncheck-bindings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1137455/subversion/trunk/tools/buildbot/slaves/bb-openbsd/svncheck-bindings.sh
+END
+svncheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1137791/subversion/trunk/tools/buildbot/slaves/bb-openbsd/svncheck.sh
+END

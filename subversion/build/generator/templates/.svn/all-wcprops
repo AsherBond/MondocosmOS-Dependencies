@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1173126/subversion/trunk/build/generator/templates
+END
+msvc_dsp.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1034362/subversion/trunk/build/generator/templates/msvc_dsp.ezt
+END
+build_locale.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1034362/subversion/trunk/build/generator/templates/build_locale.ezt
+END
+build_zlib.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1070920/subversion/trunk/build/generator/templates/build_zlib.ezt
+END
+svn_locale.vcxproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1034362/subversion/trunk/build/generator/templates/svn_locale.vcxproj.ezt
+END
+svn_config.dsp.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1069335/subversion/trunk/build/generator/templates/svn_config.dsp.ezt
+END
+vcnet_vcxproj_filters.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/908909/subversion/trunk/build/generator/templates/vcnet_vcxproj_filters.ezt
+END
+serf.dsp.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1140588/subversion/trunk/build/generator/templates/serf.dsp.ezt
+END
+neon.dsp.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1034362/subversion/trunk/build/generator/templates/neon.dsp.ezt
+END
+svn_config.vcxproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1127847/subversion/trunk/build/generator/templates/svn_config.vcxproj.ezt
+END
+msvc_dsw.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1034362/subversion/trunk/build/generator/templates/msvc_dsw.ezt
+END
+zlib.dsp.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1043373/subversion/trunk/build/generator/templates/zlib.dsp.ezt
+END
+svn_locale.vcproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1034362/subversion/trunk/build/generator/templates/svn_locale.vcproj.ezt
+END
+serf.vcxproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1173126/subversion/trunk/build/generator/templates/serf.vcxproj.ezt
+END
+neon.vcxproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1173126/subversion/trunk/build/generator/templates/neon.vcxproj.ezt
+END
+vcnet_vcxproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1135563/subversion/trunk/build/generator/templates/vcnet_vcxproj.ezt
+END
+zlib.vcxproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1173126/subversion/trunk/build/generator/templates/zlib.vcxproj.ezt
+END
+vcnet_sln.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/908909/subversion/trunk/build/generator/templates/vcnet_sln.ezt
+END
+svn_config.vcproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1127873/subversion/trunk/build/generator/templates/svn_config.vcproj.ezt
+END
+serf.vcproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1140588/subversion/trunk/build/generator/templates/serf.vcproj.ezt
+END
+neon.vcproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1034362/subversion/trunk/build/generator/templates/neon.vcproj.ezt
+END
+vcnet_vcproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1124300/subversion/trunk/build/generator/templates/vcnet_vcproj.ezt
+END
+zlib.vcproj.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1043373/subversion/trunk/build/generator/templates/zlib.vcproj.ezt
+END
+svn_locale.dsp.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1034362/subversion/trunk/build/generator/templates/svn_locale.dsp.ezt
+END
+vcnet_vc7_sln.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/908909/subversion/trunk/build/generator/templates/vcnet_vc7_sln.ezt
+END
+makefile.ezt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1097258/subversion/trunk/build/generator/templates/makefile.ezt
+END

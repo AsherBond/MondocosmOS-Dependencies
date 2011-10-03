@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1079591/subversion/trunk/packages/windows-WiX/BuildSubversion
+END
+CreateIcons.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/CreateIcons.wxs
+END
+CommonBinaryFeature.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/CommonBinaryFeature.wxi
+END
+BuildSubversion.wixproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1079591/subversion/trunk/packages/windows-WiX/BuildSubversion/BuildSubversion.wixproj
+END
+Setup.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1079591/subversion/trunk/packages/windows-WiX/BuildSubversion/Setup.wxs
+END
+CommonFiles.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/878439/subversion/trunk/packages/windows-WiX/BuildSubversion/CommonFiles.wxi
+END
+LicensesFeature20x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/878439/subversion/trunk/packages/windows-WiX/BuildSubversion/LicensesFeature20x.wxi
+END
+Files.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/Files.wxs
+END
+dlgbmp.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/871914/subversion/trunk/packages/windows-WiX/BuildSubversion/dlgbmp.bmp
+END
+LicensesFeature22x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/LicensesFeature22x.wxi
+END
+LicensesCommon.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1079591/subversion/trunk/packages/windows-WiX/BuildSubversion/LicensesCommon.wxi
+END
+CommonBinaryFiles.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1079591/subversion/trunk/packages/windows-WiX/BuildSubversion/CommonBinaryFiles.wxi
+END
+iconvFeature20x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/878439/subversion/trunk/packages/windows-WiX/BuildSubversion/iconvFeature20x.wxi
+END
+iconvFeature22x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/iconvFeature22x.wxi
+END
+ApacheFeature20x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/878439/subversion/trunk/packages/windows-WiX/BuildSubversion/ApacheFeature20x.wxi
+END
+CommonShareFeature.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/CommonShareFeature.wxi
+END
+CommonSASLFeature.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/CommonSASLFeature.wxi
+END
+ApacheFeature22x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/ApacheFeature22x.wxi
+END
+LicensesCommonFeature.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/LicensesCommonFeature.wxi
+END
+iconvFiles20x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/878439/subversion/trunk/packages/windows-WiX/BuildSubversion/iconvFiles20x.wxi
+END
+ProgramMenu.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/ProgramMenu.wxi
+END
+iconvFiles22x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/iconvFiles22x.wxi
+END
+CommonShareFiles.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/CommonShareFiles.wxi
+END
+CommonSASLFiles.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-WiX/BuildSubversion/CommonSASLFiles.wxi
+END
+ApacheFiles20x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/878439/subversion/trunk/packages/windows-WiX/BuildSubversion/ApacheFiles20x.wxi
+END
+Licenses20x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/878439/subversion/trunk/packages/windows-WiX/BuildSubversion/Licenses20x.wxi
+END
+ApacheFiles22x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1079591/subversion/trunk/packages/windows-WiX/BuildSubversion/ApacheFiles22x.wxi
+END
+Licenses22x.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1079591/subversion/trunk/packages/windows-WiX/BuildSubversion/Licenses22x.wxi
+END
+CommonFeature.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/878439/subversion/trunk/packages/windows-WiX/BuildSubversion/CommonFeature.wxi
+END
+wiz-55x55x24.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/871914/subversion/trunk/packages/windows-WiX/BuildSubversion/wiz-55x55x24.bmp
+END

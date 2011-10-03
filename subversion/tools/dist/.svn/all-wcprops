@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1177494/subversion/trunk/tools/dist
+END
+backport.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1152360/subversion/trunk/tools/dist/backport.pl
+END
+rat-excludes
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1086112/subversion/trunk/tools/dist/rat-excludes
+END
+collect_sigs.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1159716/subversion/trunk/tools/dist/collect_sigs.py
+END
+extract-for-examination.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dist/extract-for-examination.sh
+END
+_gnupg.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1164781/subversion/trunk/tools/dist/_gnupg.py
+END
+nightly.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1177494/subversion/trunk/tools/dist/nightly.sh
+END
+release.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1170198/subversion/trunk/tools/dist/release.py
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dist/test.sh
+END
+checksums.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1073869/subversion/trunk/tools/dist/checksums.py
+END
+dist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1159741/subversion/trunk/tools/dist/dist.sh
+END
+download-release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/dist/download-release.sh
+END

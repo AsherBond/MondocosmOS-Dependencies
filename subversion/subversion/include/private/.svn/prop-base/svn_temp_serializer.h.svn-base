@@ -1,0 +1,10 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 208
+/subversion/branches/revprop-packing/subversion/include/private/svn_temp_serializer.h:1143907,1143971,1144017,1144568,1146145
+/subversion/trunk/subversion/include/private/svn_temp_serializer.h:1067687-1072301
+END

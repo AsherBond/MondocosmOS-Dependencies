@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra
+END
+deprecated.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra/deprecated.c
+END
+wrapper_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1000693/subversion/trunk/subversion/libsvn_ra/wrapper_template.h
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/libsvn_ra/compat.c
+END
+debug_reporter.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1080251/subversion/trunk/subversion/libsvn_ra/debug_reporter.c
+END
+ra_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra/ra_loader.c
+END
+debug_reporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1080251/subversion/trunk/subversion/libsvn_ra/debug_reporter.h
+END
+ra_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra/ra_loader.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1099758/subversion/trunk/subversion/libsvn_ra/util.c
+END

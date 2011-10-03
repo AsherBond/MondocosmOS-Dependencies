@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1142028/subversion/trunk/tools/buildbot/slaves/ubuntu-x64
+END
+svnbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/945390/subversion/trunk/tools/buildbot/slaves/ubuntu-x64/svnbuild.sh
+END
+svnlog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/ubuntu-x64/svnlog.sh
+END
+svnclean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1142028/subversion/trunk/tools/buildbot/slaves/ubuntu-x64/svnclean.sh
+END
+svncheck-bindings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/ubuntu-x64/svncheck-bindings.sh
+END
+svncheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1142028/subversion/trunk/tools/buildbot/slaves/ubuntu-x64/svncheck.sh
+END

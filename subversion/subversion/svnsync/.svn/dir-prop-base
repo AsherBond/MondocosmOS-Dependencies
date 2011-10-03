@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 42
+svnsync
+svnsync.exe
+.libs
+*.o
+*.lo
+*~
+.*~
+
+END

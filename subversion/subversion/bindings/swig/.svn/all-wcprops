@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1162054/subversion/trunk/subversion/bindings/swig
+END
+core.i
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1150950/subversion/trunk/subversion/bindings/swig/core.i
+END
+svn_ra.i
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/swig/svn_ra.i
+END
+svn_diff.i
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/990121/subversion/trunk/subversion/bindings/swig/svn_diff.i
+END
+svn_fs.i
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/984565/subversion/trunk/subversion/bindings/swig/svn_fs.i
+END
+svn_repos.i
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/swig/svn_repos.i
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1134071/subversion/trunk/subversion/bindings/swig/INSTALL
+END
+svn_delta.i
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/983144/subversion/trunk/subversion/bindings/swig/svn_delta.i
+END
+svn_wc.i
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/901007/subversion/trunk/subversion/bindings/swig/svn_wc.i
+END
+NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/920799/subversion/trunk/subversion/bindings/swig/NOTES
+END
+svn_client.i
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/906147/subversion/trunk/subversion/bindings/swig/svn_client.i
+END

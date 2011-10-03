@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1167546/subversion/trunk/subversion/tests/libsvn_fs
+END
+fs-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1167546/subversion/trunk/subversion/tests/libsvn_fs/fs-test.c
+END
+locks-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1068436/subversion/trunk/subversion/tests/libsvn_fs/locks-test.c
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1177001/subversion/trunk/tools/client-side
+END
+detach.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1150924/subversion/trunk/tools/client-side/detach.py
+END
+svn-graph.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/904301/subversion/trunk/tools/client-side/svn-graph.pl
+END
+server-version.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/client-side/server-version.py
+END
+showchange.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/client-side/showchange.pl
+END
+svn-viewspec.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1053998/subversion/trunk/tools/client-side/svn-viewspec.py
+END
+bash_completion_test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1177001/subversion/trunk/tools/client-side/bash_completion_test
+END
+bash_completion
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1177001/subversion/trunk/tools/client-side/bash_completion
+END
+svn-ssl-fingerprints.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1086097/subversion/trunk/tools/client-side/svn-ssl-fingerprints.sh
+END
+wcfind
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/901260/subversion/trunk/tools/client-side/wcfind
+END
+change-svn-wc-format.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/904301/subversion/trunk/tools/client-side/change-svn-wc-format.py
+END

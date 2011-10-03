@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1054704/subversion/trunk/subversion/tests/libsvn_ra_local
+END
+ra-local-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1054704/subversion/trunk/subversion/tests/libsvn_ra_local/ra-local-test.c
+END

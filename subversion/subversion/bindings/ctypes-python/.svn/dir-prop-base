@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 39
+build
+ctypesgen
+svn_all.py
+svn_all2.py
+
+END

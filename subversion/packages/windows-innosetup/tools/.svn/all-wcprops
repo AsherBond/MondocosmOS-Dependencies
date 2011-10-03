@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-innosetup/tools
+END
+mk_distro.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-innosetup/tools/mk_distro.bat
+END
+mk_distro.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-innosetup/tools/mk_distro.pl
+END
+cmn.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-innosetup/tools/cmn.pl
+END
+set_version.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-innosetup/tools/set_version.pl
+END
+mk_svndoc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-innosetup/tools/mk_svndoc.pl
+END

@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 99
+Debug
+Release
+.libs
+test-repo-*
+fs-pack-test
+test-get-set-revprop-packed-fs
+*.o
+*.lo
+*~
+.*~
+*.exe
+
+
+END

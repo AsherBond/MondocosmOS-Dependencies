@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 37
+repos
+tmp
+config
+wc-tmp
+.test-result
+
+END

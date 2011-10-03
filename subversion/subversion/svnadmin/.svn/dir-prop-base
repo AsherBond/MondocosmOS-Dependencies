@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 45
+svnadmin
+svnadmin.exe
+.libs
+*.o
+*.lo
+*~
+.*~
+
+
+END

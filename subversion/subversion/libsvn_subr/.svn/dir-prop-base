@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 86
+Release
+Debug
+*.lo
+*.la
+.libs
+*.la-a
+*.o
+*~
+.*~
+libsvn_subr.def
+internal_statements.h
+
+END

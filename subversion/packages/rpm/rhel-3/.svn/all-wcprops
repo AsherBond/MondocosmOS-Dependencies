@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/888078/subversion/trunk/packages/rpm/rhel-3
+END
+.rpmmacros
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/854488/subversion/trunk/packages/rpm/rhel-3/.rpmmacros
+END
+find-osrel
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/888078/subversion/trunk/packages/rpm/rhel-3/find-osrel
+END
+subversion.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/888078/subversion/trunk/packages/rpm/rhel-3/subversion.conf
+END
+subversion-0.31.0-rpath.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/860115/subversion/trunk/packages/rpm/rhel-3/subversion-0.31.0-rpath.patch
+END
+subversion.spec
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/888078/subversion/trunk/packages/rpm/rhel-3/subversion.spec
+END
+filter-requires.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/882257/subversion/trunk/packages/rpm/rhel-3/filter-requires.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/888078/subversion/trunk/packages/rpm/rhel-3/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/854488/subversion/trunk/packages/rpm/rhel-3/README
+END

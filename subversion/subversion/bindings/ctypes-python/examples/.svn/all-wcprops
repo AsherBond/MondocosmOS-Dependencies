@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/examples
+END
+example.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/examples/example.py
+END
+trunkify.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/examples/trunkify.py
+END
+log.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/examples/log.py
+END
+mucc.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/ctypes-python/examples/mucc.py
+END

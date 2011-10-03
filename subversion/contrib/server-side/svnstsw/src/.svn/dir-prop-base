@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 71
+.deps
+.libs
+config.h
+config.h.in
+Makefile
+Makefile.in
+stamp-h1
+svnstsw
+
+END

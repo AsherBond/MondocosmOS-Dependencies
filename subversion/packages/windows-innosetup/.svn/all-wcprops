@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/904301/subversion/trunk/packages/windows-innosetup
+END
+Post.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/854255/subversion/trunk/packages/windows-innosetup/Post.rtf
+END
+Pre.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/904301/subversion/trunk/packages/windows-innosetup/Pre.rtf
+END
+is_main.pas
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/880911/subversion/trunk/packages/windows-innosetup/is_main.pas
+END
+W32notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/854255/subversion/trunk/packages/windows-innosetup/W32notes.txt
+END
+svn.iss
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/878444/subversion/trunk/packages/windows-innosetup/svn.iss
+END
+missing_msvcp60dll.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/882257/subversion/trunk/packages/windows-innosetup/missing_msvcp60dll.html
+END
+svn.url
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/854255/subversion/trunk/packages/windows-innosetup/svn.url
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/867647/subversion/trunk/packages/windows-innosetup/Readme.txt
+END
+missing_shfolderdll.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/882257/subversion/trunk/packages/windows-innosetup/missing_shfolderdll.html
+END

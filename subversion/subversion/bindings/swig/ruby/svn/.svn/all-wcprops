@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1034557/subversion/trunk/subversion/bindings/swig/ruby/svn
+END
+synchronizer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/svn/synchronizer.rb
+END
+util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/905175/subversion/trunk/subversion/bindings/swig/ruby/svn/util.rb
+END
+client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/svn/client.rb
+END
+commit-mailer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/svn/commit-mailer.rb
+END
+ra.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/svn/ra.rb
+END
+core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/957507/subversion/trunk/subversion/bindings/swig/ruby/svn/core.rb
+END
+fs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1034557/subversion/trunk/subversion/bindings/swig/ruby/svn/fs.rb
+END
+repos.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/svn/repos.rb
+END
+delta.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/932942/subversion/trunk/subversion/bindings/swig/ruby/svn/delta.rb
+END
+error.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/885525/subversion/trunk/subversion/bindings/swig/ruby/svn/error.rb
+END
+wc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/920986/subversion/trunk/subversion/bindings/swig/ruby/svn/wc.rb
+END
+info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/905175/subversion/trunk/subversion/bindings/swig/ruby/svn/info.rb
+END

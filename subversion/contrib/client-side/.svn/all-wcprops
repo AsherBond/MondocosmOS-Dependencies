@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1162197/subversion/trunk/contrib/client-side
+END
+svn_update.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/867034/subversion/trunk/contrib/client-side/svn_update.pl
+END
+svn_all_diffs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/870115/subversion/trunk/contrib/client-side/svn_all_diffs.pl
+END
+svn-resolve
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/860073/subversion/trunk/contrib/client-side/svn-resolve
+END
+svn-merge-vendor.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/867363/subversion/trunk/contrib/client-side/svn-merge-vendor.py
+END
+search-svnlog.pl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/870115/subversion/trunk/contrib/client-side/search-svnlog.pl
+END
+svn-clean
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1162197/subversion/trunk/contrib/client-side/svn-clean
+END
+wcgrep
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/877791/subversion/trunk/contrib/client-side/wcgrep
+END
+diff-wrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/869902/subversion/trunk/contrib/client-side/diff-wrap.sh
+END
+diff3wrap.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/diff3wrap.bat
+END
+svn_export_empty_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/868596/subversion/trunk/contrib/client-side/svn_export_empty_files.py
+END
+svn-log.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/866391/subversion/trunk/contrib/client-side/svn-log.pl
+END
+asvn
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/941728/subversion/trunk/contrib/client-side/asvn
+END
+diffwrap.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/diffwrap.bat
+END
+svn-viewdiff
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/svn-viewdiff
+END
+incremental-update.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/866391/subversion/trunk/contrib/client-side/incremental-update.py
+END
+svn-hgmerge.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/871840/subversion/trunk/contrib/client-side/svn-hgmerge.py
+END
+svn_apply_autoprops.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1073340/subversion/trunk/contrib/client-side/svn_apply_autoprops.py
+END

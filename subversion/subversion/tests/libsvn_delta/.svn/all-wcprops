@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1172675/subversion/trunk/subversion/tests/libsvn_delta
+END
+delta-window-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/995212/subversion/trunk/subversion/tests/libsvn_delta/delta-window-test.h
+END
+editor-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1172675/subversion/trunk/subversion/tests/libsvn_delta/editor-test.c
+END
+range-index-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/tests/libsvn_delta/range-index-test.h
+END
+window-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/tests/libsvn_delta/window-test.c
+END
+svndiff-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1072288/subversion/trunk/subversion/tests/libsvn_delta/svndiff-test.c
+END
+vdelta-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/tests/libsvn_delta/vdelta-test.c
+END
+vdelta_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/837266/subversion/trunk/subversion/tests/libsvn_delta/vdelta_1.txt
+END
+random-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1098573/subversion/trunk/subversion/tests/libsvn_delta/random-test.c
+END

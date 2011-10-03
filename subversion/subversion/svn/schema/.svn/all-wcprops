@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1172773/subversion/trunk/subversion/svn/schema
+END
+blame.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/885516/subversion/trunk/subversion/svn/schema/blame.rnc
+END
+log.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/885516/subversion/trunk/subversion/svn/schema/log.rnc
+END
+props.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/885516/subversion/trunk/subversion/svn/schema/props.rnc
+END
+status.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1172773/subversion/trunk/subversion/svn/schema/status.rnc
+END
+common.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/885516/subversion/trunk/subversion/svn/schema/common.rnc
+END
+diff.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1166596/subversion/trunk/subversion/svn/schema/diff.rnc
+END
+info.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1156076/subversion/trunk/subversion/svn/schema/info.rnc
+END
+list.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/885516/subversion/trunk/subversion/svn/schema/list.rnc
+END

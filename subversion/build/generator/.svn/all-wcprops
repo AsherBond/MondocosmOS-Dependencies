@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1173126/subversion/trunk/build/generator
+END
+extractor.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1150793/subversion/trunk/build/generator/extractor.py
+END
+gen_vcnet_vcproj.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1138109/subversion/trunk/build/generator/gen_vcnet_vcproj.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/856014/subversion/trunk/build/generator/__init__.py
+END
+ezt.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/882257/subversion/trunk/build/generator/ezt.py
+END
+gen_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1138548/subversion/trunk/build/generator/gen_base.py
+END
+gen_make.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1150950/subversion/trunk/build/generator/gen_make.py
+END
+gen_win.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1151055/subversion/trunk/build/generator/gen_win.py
+END
+gen_msvc_dsp.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1138109/subversion/trunk/build/generator/gen_msvc_dsp.py
+END

@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 77
+Debug
+Release
+*.lo
+*.la
+.libs
+*.la-a
+*.o
+*~
+.*~
+rep-cache-db.h
+revprops-db.h
+
+END

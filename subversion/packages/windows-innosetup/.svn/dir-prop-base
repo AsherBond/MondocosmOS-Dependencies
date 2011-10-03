@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 52
+in
+out
+svn_dynamics.iss
+svn_version.iss
+UninsHs.exe
+
+END

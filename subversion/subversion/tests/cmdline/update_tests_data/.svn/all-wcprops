@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/859568/subversion/trunk/subversion/tests/cmdline/update_tests_data
+END
+checkout_broken_eol.dump
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/859568/subversion/trunk/subversion/tests/cmdline/update_tests_data/checkout_broken_eol.dump
+END

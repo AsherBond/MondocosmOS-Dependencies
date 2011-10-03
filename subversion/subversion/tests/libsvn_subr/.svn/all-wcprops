@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1174526/subversion/trunk/subversion/tests/libsvn_subr
+END
+config-test.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/901252/subversion/trunk/subversion/tests/libsvn_subr/config-test.cfg
+END
+compat-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/944182/subversion/trunk/subversion/tests/libsvn_subr/compat-test.c
+END
+target-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1054704/subversion/trunk/subversion/tests/libsvn_subr/target-test.c
+END
+error-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/tests/libsvn_subr/error-test.c
+END
+stream-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1130500/subversion/trunk/subversion/tests/libsvn_subr/stream-test.c
+END
+path-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1090716/subversion/trunk/subversion/tests/libsvn_subr/path-test.c
+END
+translate-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1098605/subversion/trunk/subversion/tests/libsvn_subr/translate-test.c
+END
+skel-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1098562/subversion/trunk/subversion/tests/libsvn_subr/skel-test.c
+END
+revision-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/tests/libsvn_subr/revision-test.c
+END
+time-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/tests/libsvn_subr/time-test.c
+END
+utf-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/tests/libsvn_subr/utf-test.c
+END
+auth-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1150958/subversion/trunk/subversion/tests/libsvn_subr/auth-test.c
+END
+opt-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1140518/subversion/trunk/subversion/tests/libsvn_subr/opt-test.c
+END
+checksum-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1133032/subversion/trunk/subversion/tests/libsvn_subr/checksum-test.c
+END
+cache-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1125773/subversion/trunk/subversion/tests/libsvn_subr/cache-test.c
+END
+dirent_uri-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1139410/subversion/trunk/subversion/tests/libsvn_subr/dirent_uri-test.c
+END
+config-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1069821/subversion/trunk/subversion/tests/libsvn_subr/config-test.c
+END
+string-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1029108/subversion/trunk/subversion/tests/libsvn_subr/string-test.c
+END
+hashdump-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/tests/libsvn_subr/hashdump-test.c
+END
+mergeinfo-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1054704/subversion/trunk/subversion/tests/libsvn_subr/mergeinfo-test.c
+END
+subst_translate-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1080251/subversion/trunk/subversion/tests/libsvn_subr/subst_translate-test.c
+END
+spillbuf-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1174526/subversion/trunk/subversion/tests/libsvn_subr/spillbuf-test.c
+END

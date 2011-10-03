@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1173639/subversion/trunk/subversion/libsvn_fs_base
+END
+key-gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/key-gen.c
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1173639/subversion/trunk/subversion/libsvn_fs_base/tree.c
+END
+dag.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1091717/subversion/trunk/subversion/libsvn_fs_base/dag.h
+END
+reps-strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_fs_base/reps-strings.c
+END
+id.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/id.h
+END
+key-gen.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/key-gen.h
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1173639/subversion/trunk/subversion/libsvn_fs_base/tree.h
+END
+reps-strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1091717/subversion/trunk/subversion/libsvn_fs_base/reps-strings.h
+END
+uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/uuid.c
+END
+fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1173639/subversion/trunk/subversion/libsvn_fs_base/fs.c
+END
+revs-txns.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_fs_base/revs-txns.c
+END
+trail.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/trail.c
+END
+uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/uuid.h
+END
+fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1053996/subversion/trunk/subversion/libsvn_fs_base/fs.h
+END
+revs-txns.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1091717/subversion/trunk/subversion/libsvn_fs_base/revs-txns.h
+END
+node-rev.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/node-rev.c
+END
+trail.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/890841/subversion/trunk/subversion/libsvn_fs_base/trail.h
+END
+node-rev.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/904095/subversion/trunk/subversion/libsvn_fs_base/node-rev.h
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1149343/subversion/trunk/subversion/libsvn_fs_base/lock.c
+END
+err.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/err.c
+END
+dag.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/libsvn_fs_base/dag.c
+END
+id.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1053996/subversion/trunk/subversion/libsvn_fs_base/id.c
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/957094/subversion/trunk/subversion/libsvn_fs_base/lock.h
+END
+err.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_fs_base/err.h
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 37
+*.csv
+*.xls
+*.tsv
+*.pdf
+*.tmp
+*.save
+
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1174041/subversion/trunk/subversion/libsvn_ra_svn
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra_svn/client.c
+END
+streams.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1053996/subversion/trunk/subversion/libsvn_ra_svn/streams.c
+END
+protocol
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra_svn/protocol
+END
+cram.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1096148/subversion/trunk/subversion/libsvn_ra_svn/cram.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_ra_svn/version.c
+END
+cyrus_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1166695/subversion/trunk/subversion/libsvn_ra_svn/cyrus_auth.c
+END
+editorp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1174041/subversion/trunk/subversion/libsvn_ra_svn/editorp.c
+END
+marshal.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1148536/subversion/trunk/subversion/libsvn_ra_svn/marshal.c
+END
+internal_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/922239/subversion/trunk/subversion/libsvn_ra_svn/internal_auth.c
+END
+ra_svn.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1072288/subversion/trunk/subversion/libsvn_ra_svn/ra_svn.h
+END

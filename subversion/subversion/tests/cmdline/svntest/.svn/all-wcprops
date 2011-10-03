@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1167209/subversion/trunk/subversion/tests/cmdline/svntest
+END
+err.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1141953/subversion/trunk/subversion/tests/cmdline/svntest/err.py
+END
+objects.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1141953/subversion/trunk/subversion/tests/cmdline/svntest/objects.py
+END
+wc.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1143357/subversion/trunk/subversion/tests/cmdline/svntest/wc.py
+END
+testcase.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1138109/subversion/trunk/subversion/tests/cmdline/svntest/testcase.py
+END
+sandbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1146762/subversion/trunk/subversion/tests/cmdline/svntest/sandbox.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/951379/subversion/trunk/subversion/tests/cmdline/svntest/__init__.py
+END
+tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1095384/subversion/trunk/subversion/tests/cmdline/svntest/tree.py
+END
+actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1167209/subversion/trunk/subversion/tests/cmdline/svntest/actions.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1158194/subversion/trunk/subversion/tests/cmdline/svntest/main.py
+END
+verify.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1145772/subversion/trunk/subversion/tests/cmdline/svntest/verify.py
+END
+factory.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1164165/subversion/trunk/subversion/tests/cmdline/svntest/factory.py
+END

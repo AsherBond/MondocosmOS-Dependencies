@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 78
+.libs
+svn-populate-node-origins-index
+svnauthz-validate
+svn-rep-sharing-stats
+
+END

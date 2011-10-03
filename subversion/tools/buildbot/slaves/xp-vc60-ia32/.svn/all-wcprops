@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/xp-vc60-ia32
+END
+config.bat.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/xp-vc60-ia32/config.bat.tmpl
+END
+svncheck.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/xp-vc60-ia32/svncheck.bat
+END
+svnbuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/xp-vc60-ia32/svnbuild.bat
+END
+svnlog.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/xp-vc60-ia32/svnlog.bat
+END
+svnclean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/885565/subversion/trunk/tools/buildbot/slaves/xp-vc60-ia32/svnclean.bat
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/939329/subversion/trunk/subversion/tests/cmdline/svndumpfilter_tests_data
+END
+greek_tree.dump
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/872392/subversion/trunk/subversion/tests/cmdline/svndumpfilter_tests_data/greek_tree.dump
+END
+with_merges.dump
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/936516/subversion/trunk/subversion/tests/cmdline/svndumpfilter_tests_data/with_merges.dump
+END
+mergeinfo_included_partial.dump
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/939329/subversion/trunk/subversion/tests/cmdline/svndumpfilter_tests_data/mergeinfo_included_partial.dump
+END

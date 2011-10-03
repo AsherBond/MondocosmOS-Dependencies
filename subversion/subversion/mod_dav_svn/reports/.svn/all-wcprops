@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/mod_dav_svn/reports
+END
+deleted-rev.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1098595/subversion/trunk/subversion/mod_dav_svn/reports/deleted-rev.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1137933/subversion/trunk/subversion/mod_dav_svn/reports/log.c
+END
+update.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1161202/subversion/trunk/subversion/mod_dav_svn/reports/update.c
+END
+get-location-segments.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1098211/subversion/trunk/subversion/mod_dav_svn/reports/get-location-segments.c
+END
+get-locations.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1067180/subversion/trunk/subversion/mod_dav_svn/reports/get-locations.c
+END
+get-locks.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1033558/subversion/trunk/subversion/mod_dav_svn/reports/get-locks.c
+END
+dated-rev.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1033558/subversion/trunk/subversion/mod_dav_svn/reports/dated-rev.c
+END
+mergeinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/mod_dav_svn/reports/mergeinfo.c
+END
+file-revs.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1072288/subversion/trunk/subversion/mod_dav_svn/reports/file-revs.c
+END
+replay.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1072288/subversion/trunk/subversion/mod_dav_svn/reports/replay.c
+END

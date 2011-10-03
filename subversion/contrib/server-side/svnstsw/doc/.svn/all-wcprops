@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/svnstsw/doc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/870938/subversion/trunk/contrib/server-side/svnstsw/doc/Makefile.am
+END
+Doxyfile-html.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/svnstsw/doc/Doxyfile-html.in
+END

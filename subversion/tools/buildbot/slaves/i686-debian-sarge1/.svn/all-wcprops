@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/i686-debian-sarge1
+END
+svnbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/i686-debian-sarge1/svnbuild.sh
+END
+svnlog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/i686-debian-sarge1/svnlog.sh
+END
+svnclean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/i686-debian-sarge1/svnclean.sh
+END
+mount-ramdrive.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/i686-debian-sarge1/mount-ramdrive.c
+END
+svncheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/i686-debian-sarge1/svncheck.sh
+END
+unmount-ramdrive.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/i686-debian-sarge1/unmount-ramdrive.c
+END

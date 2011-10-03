@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1140790/subversion/trunk/subversion/tests/libsvn_fs_base
+END
+changes-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1053185/subversion/trunk/subversion/tests/libsvn_fs_base/changes-test.c
+END
+fs-base-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1140790/subversion/trunk/subversion/tests/libsvn_fs_base/fs-base-test.c
+END
+strings-reps-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1027751/subversion/trunk/subversion/tests/libsvn_fs_base/strings-reps-test.c
+END

@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 80
+Debug
+Release
+*.la
+*.lo
+.libs
+*.o
+*~
+.*~
+libsvn_wc.def
+wc-checks.h
+wc-queries.h
+
+END

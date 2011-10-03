@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/svnstsw/doc/man
+END
+svnstsw_get_tunnel_user_name.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/877787/subversion/trunk/contrib/server-side/svnstsw/doc/man/svnstsw_get_tunnel_user_name.3.in
+END
+svnstsw.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/svnstsw/doc/man/svnstsw.8.in
+END
+libsvnstsw.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/877787/subversion/trunk/contrib/server-side/svnstsw/doc/man/libsvnstsw.3.in
+END
+svnstsw_fso_is_changeable.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/svnstsw/doc/man/svnstsw_fso_is_changeable.3.in
+END
+svnstsw_exec_svnserve.3.in
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/server-side/svnstsw/doc/man/svnstsw_exec_svnserve.3.in
+END

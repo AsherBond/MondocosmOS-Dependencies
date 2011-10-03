@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/880387/subversion/trunk/contrib/client-side/vim
+END
+svn.vim
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/vim/svn.vim
+END
+diff-to-logmsg.vim
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/client-side/vim/diff-to-logmsg.vim
+END
+vim-blame.vimrc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/880387/subversion/trunk/contrib/client-side/vim/vim-blame.vimrc
+END
+vim-show-log-msg.vimrc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/880385/subversion/trunk/contrib/client-side/vim/vim-show-log-msg.vimrc
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1167503/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data
+END
+format_16.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/917853/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/format_16.tar.bz2
+END
+wc-3x-1.4.0.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/959807/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/wc-3x-1.4.0.tar.bz2
+END
+wc-3x-1.4.6.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/959807/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/wc-3x-1.4.6.tar.bz2
+END
+upgrade_locked.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1160704/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/upgrade_locked.tar.bz2
+END
+add_add_x2.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1133612/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/add_add_x2.tar.bz2
+END
+dirs-only.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1024287/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/dirs-only.tar.bz2
+END
+wc-3x-1.6.12.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/959807/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/wc-3x-1.6.12.tar.bz2
+END
+upgrade_1_0.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/918886/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/upgrade_1_0.tar.bz2
+END
+tree-replace1.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1102226/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/tree-replace1.tar.bz2
+END
+tree-replace2.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1102237/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/tree-replace2.tar.bz2
+END
+upgrade_1_5.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/877162/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/upgrade_1_5.tar.bz2
+END
+add_add_del_del_tc.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1133600/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/add_add_del_del_tc.tar.bz2
+END
+depth_exclude_2.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1127587/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/depth_exclude_2.tar.bz2
+END
+format_28.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1129201/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/format_28.tar.bz2
+END
+upgrade_wcprops.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/877577/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/upgrade_wcprops.tar.bz2
+END
+upgrade_with_scheduled_change.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1054090/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/upgrade_with_scheduled_change.tar.bz2
+END
+upgrade_with_externals.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/920118/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/upgrade_with_externals.tar.bz2
+END
+missing-dirs.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/990119/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/missing-dirs.tar.bz2
+END
+wc-delete.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/991512/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/wc-delete.tar.bz2
+END
+upgrade_file_externals.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1167503/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/upgrade_file_externals.tar.bz2
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/917853/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/README
+END
+upgrade_tc.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1034155/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/upgrade_tc.tar.bz2
+END
+depth_exclude.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1127465/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/depth_exclude.tar.bz2
+END
+delete-in-copy.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1036067/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/delete-in-copy.tar.bz2
+END
+replaced-files.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1050359/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/replaced-files.tar.bz2
+END
+logs_left_1_5.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/877280/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/logs_left_1_5.tar.bz2
+END
+basic_upgrade.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/877149/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/basic_upgrade.tar.bz2
+END
+format_12a.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/917853/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/format_12a.tar.bz2
+END
+format_13.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/917853/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/format_13.tar.bz2
+END
+format_12b.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/917853/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/format_12b.tar.bz2
+END
+format_14.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/917853/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/format_14.tar.bz2
+END
+format_15.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/917853/subversion/trunk/subversion/tests/cmdline/upgrade_tests_data/format_15.tar.bz2
+END

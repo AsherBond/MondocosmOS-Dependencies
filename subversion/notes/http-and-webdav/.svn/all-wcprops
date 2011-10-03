@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1131413/subversion/trunk/notes/http-and-webdav
+END
+http-protocol-v2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1100677/subversion/trunk/notes/http-and-webdav/http-protocol-v2.txt
+END
+webdav-protocol
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1000693/subversion/trunk/notes/http-and-webdav/webdav-protocol
+END
+webdav-proxy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/900584/subversion/trunk/notes/http-and-webdav/webdav-proxy
+END
+webdav-acl-notes
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1131413/subversion/trunk/notes/http-and-webdav/webdav-acl-notes
+END
+webdav-usage.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1022801/subversion/trunk/notes/http-and-webdav/webdav-usage.html
+END
+webdav-general-summary
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/900584/subversion/trunk/notes/http-and-webdav/webdav-general-summary
+END

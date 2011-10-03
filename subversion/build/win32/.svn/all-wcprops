@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1034362/subversion/trunk/build/win32
+END
+empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/862915/subversion/trunk/build/win32/empty.c
+END
+svn.ico
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/851578/subversion/trunk/build/win32/svn.ico
+END
+vc6-build.bat.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/901249/subversion/trunk/build/win32/vc6-build.bat.in
+END
+make_dist.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/882257/subversion/trunk/build/win32/make_dist.py
+END
+make_gem.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/915036/subversion/trunk/build/win32/make_gem.rb
+END
+svn.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/889565/subversion/trunk/build/win32/svn.rc
+END
+make_dist.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/901249/subversion/trunk/build/win32/make_dist.conf.template
+END

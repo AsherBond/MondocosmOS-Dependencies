@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/945111/subversion/trunk/tools/buildbot/slaves/centos
+END
+svnbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/centos/svnbuild.sh
+END
+svnlog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/centos/svnlog.sh
+END
+svnclean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/centos/svnclean.sh
+END
+svncheck-bindings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/882257/subversion/trunk/tools/buildbot/slaves/centos/svncheck-bindings.sh
+END
+svncheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/945111/subversion/trunk/tools/buildbot/slaves/centos/svncheck.sh
+END

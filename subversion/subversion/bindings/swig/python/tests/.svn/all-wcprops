@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1158303/subversion/trunk/subversion/bindings/swig/python/tests
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/bindings/swig/python/tests/core.py
+END
+delta.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/bindings/swig/python/tests/delta.py
+END
+pool.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/981339/subversion/trunk/subversion/bindings/swig/python/tests/pool.py
+END
+wc.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/981339/subversion/trunk/subversion/bindings/swig/python/tests/wc.py
+END
+mergeinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/981339/subversion/trunk/subversion/bindings/swig/python/tests/mergeinfo.py
+END
+run_all.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/920074/subversion/trunk/subversion/bindings/swig/python/tests/run_all.py
+END
+setup_path.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/882257/subversion/trunk/subversion/bindings/swig/python/tests/setup_path.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/981339/subversion/trunk/subversion/bindings/swig/python/tests/client.py
+END
+repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/bindings/swig/python/tests/repository.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/bindings/swig/python/tests/utils.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/981339/subversion/trunk/subversion/bindings/swig/python/tests/auth.py
+END
+ra.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/bindings/swig/python/tests/ra.py
+END

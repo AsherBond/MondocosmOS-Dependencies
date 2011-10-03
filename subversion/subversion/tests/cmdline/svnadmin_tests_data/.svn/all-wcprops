@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/938999/subversion/trunk/subversion/tests/cmdline/svnadmin_tests_data
+END
+skeleton_repos.dump
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/927184/subversion/trunk/subversion/tests/cmdline/svnadmin_tests_data/skeleton_repos.dump
+END
+mergeinfo_included.dump
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/868099/subversion/trunk/subversion/tests/cmdline/svnadmin_tests_data/mergeinfo_included.dump
+END
+mergeinfo_included_full.dump
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/929732/subversion/trunk/subversion/tests/cmdline/svnadmin_tests_data/mergeinfo_included_full.dump
+END

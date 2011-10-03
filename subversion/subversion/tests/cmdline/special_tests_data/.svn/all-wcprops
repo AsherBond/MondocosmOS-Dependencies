@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/864101/subversion/trunk/subversion/tests/cmdline/special_tests_data
+END
+bad-special-type.dump
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/864101/subversion/trunk/subversion/tests/cmdline/special_tests_data/bad-special-type.dump
+END
+symlink.dump
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/863213/subversion/trunk/subversion/tests/cmdline/special_tests_data/symlink.dump
+END

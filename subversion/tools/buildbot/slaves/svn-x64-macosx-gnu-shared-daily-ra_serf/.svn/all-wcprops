@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1142981/subversion/trunk/tools/buildbot/slaves/svn-x64-macosx-gnu-shared-daily-ra_serf
+END
+svnbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1142981/subversion/trunk/tools/buildbot/slaves/svn-x64-macosx-gnu-shared-daily-ra_serf/svnbuild.sh
+END
+svnlog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1142966/subversion/trunk/tools/buildbot/slaves/svn-x64-macosx-gnu-shared-daily-ra_serf/svnlog.sh
+END
+svnclean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1142966/subversion/trunk/tools/buildbot/slaves/svn-x64-macosx-gnu-shared-daily-ra_serf/svnclean.sh
+END
+svncheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1142966/subversion/trunk/tools/buildbot/slaves/svn-x64-macosx-gnu-shared-daily-ra_serf/svncheck.sh
+END

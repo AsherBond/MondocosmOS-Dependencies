@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/asf/!svn/ver/1174806/subversion/trunk/build
+END
+transform_sql.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1159113/subversion/trunk/build/transform_sql.py
+END
+get-py-info.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/880911/subversion/trunk/build/get-py-info.py
+END
+buildcheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1142873/subversion/trunk/build/buildcheck.sh
+END
+PrintPath
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/888070/subversion/trunk/build/PrintPath
+END
+find_python.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/882257/subversion/trunk/build/find_python.sh
+END
+strip-po-charset.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/882257/subversion/trunk/build/strip-po-charset.py
+END
+getversion.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/882257/subversion/trunk/build/getversion.py
+END
+run_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1172604/subversion/trunk/build/run_tests.py
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/877839/subversion/trunk/build/install-sh
+END
+run_ctypesgen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1030557/subversion/trunk/build/run_ctypesgen.sh
+END

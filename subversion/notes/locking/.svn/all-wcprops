@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/879208/subversion/trunk/notes/locking
+END
+locking-ui.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/861860/subversion/trunk/notes/locking/locking-ui.txt
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/879208/subversion/trunk/notes/locking/TODO.txt
+END
+svn-needs-lock-impl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/853019/subversion/trunk/notes/locking/svn-needs-lock-impl.txt
+END
+locking-implementation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/855947/subversion/trunk/notes/locking/locking-implementation.txt
+END
+locking-functional-spec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/852855/subversion/trunk/notes/locking/locking-functional-spec.txt
+END
+ra_dav_strategy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/855947/subversion/trunk/notes/locking/ra_dav_strategy.txt
+END

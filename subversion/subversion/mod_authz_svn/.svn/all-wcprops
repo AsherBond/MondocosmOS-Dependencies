@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1149572/subversion/trunk/subversion/mod_authz_svn
+END
+mod_authz_svn.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1149572/subversion/trunk/subversion/mod_authz_svn/mod_authz_svn.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1030536/subversion/trunk/subversion/mod_authz_svn/INSTALL
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra_local
+END
+ra_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1173425/subversion/trunk/subversion/libsvn_ra_local/ra_plugin.c
+END
+ra_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_ra_local/ra_local.h
+END
+split_url.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1125733/subversion/trunk/subversion/libsvn_ra_local/split_url.c
+END

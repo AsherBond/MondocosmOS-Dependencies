@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 93
+svn_fs.c
+svn_repos.c
+svn_delta.c
+core.c
+svn_wc.c
+svn_client.c
+svn_ra.c
+svn_diff.c
+.libs
+.ext
+
+END

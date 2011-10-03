@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1145712/subversion/trunk/contrib/hook-scripts
+END
+pre-lock-require-needs-lock.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/867149/subversion/trunk/contrib/hook-scripts/pre-lock-require-needs-lock.py
+END
+require-mergeinfo.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/875191/subversion/trunk/contrib/hook-scripts/require-mergeinfo.pl
+END
+case-insensitive.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/867334/subversion/trunk/contrib/hook-scripts/case-insensitive.py
+END
+detect-merge-conflicts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/864666/subversion/trunk/contrib/hook-scripts/detect-merge-conflicts.sh
+END
+remove-zombie-locks.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1056468/subversion/trunk/contrib/hook-scripts/remove-zombie-locks.py
+END
+syntax-check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/877789/subversion/trunk/contrib/hook-scripts/syntax-check.sh
+END
+check-mime-type.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/867034/subversion/trunk/contrib/hook-scripts/check-mime-type.pl
+END
+commit-email.pl.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/904301/subversion/trunk/contrib/hook-scripts/commit-email.pl.in
+END
+commit-block-joke.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/867149/subversion/trunk/contrib/hook-scripts/commit-block-joke.py
+END
+hook_toolbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1141953/subversion/trunk/contrib/hook-scripts/hook_toolbox.py
+END
+svn-keyword-check.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/871287/subversion/trunk/contrib/hook-scripts/svn-keyword-check.pl
+END
+pre-commit-check.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/867149/subversion/trunk/contrib/hook-scripts/pre-commit-check.py
+END

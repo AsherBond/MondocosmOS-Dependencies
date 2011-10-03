@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 53
+Debug
+Release
+*.hi
+*.lo
+*.la
+.libs
+*.la-a
+*.o
+*~
+.*~
+
+END

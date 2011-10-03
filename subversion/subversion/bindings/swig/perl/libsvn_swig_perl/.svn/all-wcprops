@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1054001/subversion/trunk/subversion/bindings/swig/perl/libsvn_swig_perl
+END
+swigutil_pl.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1054001/subversion/trunk/subversion/bindings/swig/perl/libsvn_swig_perl/swigutil_pl.c
+END
+swigutil_pl.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/bindings/swig/perl/libsvn_swig_perl/swigutil_pl.h
+END

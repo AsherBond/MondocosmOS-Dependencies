@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1004348/subversion/trunk/subversion/libsvn_auth_gnome_keyring
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/libsvn_auth_gnome_keyring/version.c
+END
+gnome_keyring.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1004348/subversion/trunk/subversion/libsvn_auth_gnome_keyring/gnome_keyring.c
+END

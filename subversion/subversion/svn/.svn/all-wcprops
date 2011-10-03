@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/1175849/subversion/trunk/subversion/svn
+END
+patch-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1139367/subversion/trunk/subversion/svn/patch-cmd.c
+END
+merge-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1139332/subversion/trunk/subversion/svn/merge-cmd.c
+END
+props.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1053998/subversion/trunk/subversion/svn/props.c
+END
+cl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1140729/subversion/trunk/subversion/svn/cl.h
+END
+propdel-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1131326/subversion/trunk/subversion/svn/propdel-cmd.c
+END
+checkout-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1140729/subversion/trunk/subversion/svn/checkout-cmd.c
+END
+move-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/svn/move-cmd.c
+END
+mkdir-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/svn/mkdir-cmd.c
+END
+cat-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1140729/subversion/trunk/subversion/svn/cat-cmd.c
+END
+revert-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1139360/subversion/trunk/subversion/svn/revert-cmd.c
+END
+diff-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1172548/subversion/trunk/subversion/svn/diff-cmd.c
+END
+copy-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1147309/subversion/trunk/subversion/svn/copy-cmd.c
+END
+mergeinfo-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1131326/subversion/trunk/subversion/svn/mergeinfo-cmd.c
+END
+list-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1140729/subversion/trunk/subversion/svn/list-cmd.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1140729/subversion/trunk/subversion/svn/util.c
+END
+client_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/880911/subversion/trunk/subversion/svn/client_errors.h
+END
+propget-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1136379/subversion/trunk/subversion/svn/propget-cmd.c
+END
+blame-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/svn/blame-cmd.c
+END
+log-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1175849/subversion/trunk/subversion/svn/log-cmd.c
+END
+changelist-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1145972/subversion/trunk/subversion/svn/changelist-cmd.c
+END
+status.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1172411/subversion/trunk/subversion/svn/status.c
+END
+update-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1139360/subversion/trunk/subversion/svn/update-cmd.c
+END
+resolved-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1139360/subversion/trunk/subversion/svn/resolved-cmd.c
+END
+cleanup-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1139360/subversion/trunk/subversion/svn/cleanup-cmd.c
+END
+upgrade-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1139360/subversion/trunk/subversion/svn/upgrade-cmd.c
+END
+add-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1139360/subversion/trunk/subversion/svn/add-cmd.c
+END
+commit-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1139360/subversion/trunk/subversion/svn/commit-cmd.c
+END
+help-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/896893/subversion/trunk/subversion/svn/help-cmd.c
+END
+propset-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1131326/subversion/trunk/subversion/svn/propset-cmd.c
+END
+relocate-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1139367/subversion/trunk/subversion/svn/relocate-cmd.c
+END
+switch-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1140729/subversion/trunk/subversion/svn/switch-cmd.c
+END
+delete-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/svn/delete-cmd.c
+END
+notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1151906/subversion/trunk/subversion/svn/notify.c
+END
+import-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1139367/subversion/trunk/subversion/svn/import-cmd.c
+END
+proplist-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1145982/subversion/trunk/subversion/svn/proplist-cmd.c
+END
+conflict-callbacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/svn/conflict-callbacks.c
+END
+resolve-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1150439/subversion/trunk/subversion/svn/resolve-cmd.c
+END
+tree-conflicts.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1159362/subversion/trunk/subversion/svn/tree-conflicts.c
+END
+export-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1139367/subversion/trunk/subversion/svn/export-cmd.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1172391/subversion/trunk/subversion/svn/main.c
+END
+status-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1139360/subversion/trunk/subversion/svn/status-cmd.c
+END
+svn.1
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/915036/subversion/trunk/subversion/svn/svn.1
+END
+tree-conflicts.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1097203/subversion/trunk/subversion/svn/tree-conflicts.h
+END
+propedit-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1171732/subversion/trunk/subversion/svn/propedit-cmd.c
+END
+lock-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1131326/subversion/trunk/subversion/svn/lock-cmd.c
+END
+info-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1162033/subversion/trunk/subversion/svn/info-cmd.c
+END
+unlock-cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1139195/subversion/trunk/subversion/svn/unlock-cmd.c
+END
